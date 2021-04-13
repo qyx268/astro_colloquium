@@ -1,0 +1,58 @@
+
+[category Colloquium]
+
+
+[slug Dr._xxx_xxx.html]
+[comments off]
+
+<style type="text/css">
+a:link {color: #4d476b; text-decoration: underline; }
+a:active {color: #4d476b; text-decoration: underline; }
+a:visited {color: #4d476b; text-decoration: underline; }
+.profile-pic{
+    width: 45;
+    height: 45;
+    position: left;
+    border-radius: 50%;
+    overflow: hidden;
+    border-top: 0.1px solid #111;
+    border-right: 0.1px solid #111;
+    background: #fff;
+}
+body{
+margin:0.5em;
+background-color: #FFFFFE;
+}
+</style>
+
+<div class="profile-pic">
+<img
+src="https://blogs.unimelb.edu.au/astroadm/files/2017/06/d.jpeg"
+alt="" />
+<strong>Dr. David Parkinson</strong>, <em>ARC Future Fellow, Senior
+Lecturer<strong> University of Queensland
+</strong></em>Email: d.parkinson[at]uq.edu.au
+</div>
+<section>
+<h2>Abstract</h2>
+In cosmology, as in other areas of astrophysics, we are constrained to
+make observations of unrepeatable events (such as the Big Bang), and so
+have to proceed by statistical inference. The Bayesian approach involves
+treating models and parameters similarly to data, as unknown variables
+with their own underlying probability distributions. However, as data
+from cosmological observables increases in constraining power, the
+opportunity arises for tensions between the different data sets, where
+the statistical limits on derived on certain parameters appears not to
+be coincident. This tensions can be generated either by an insufficient
+model, and so indicates the presence of new physics, by undiagnosed
+systematic errors, or simply by random statistical chance. In my talk I
+discuss different methods for diagnosing tensions, and show how these
+have been applied to the observed parameter tension between the cosmic
+microwave background data and measurements of the weak lensing shear
+power spectrum.
+</section>
+
+
+[end]
+
+

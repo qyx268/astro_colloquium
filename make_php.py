@@ -75,7 +75,7 @@ for rec in records[::-1]:
     print('html file created for %s: %s' %(rec[3], op_page_name))
 
 #make html
-cmd = 'php-cgi -q astro_colloquium.php > astro_colloquium.html'
+cmd = 'php-cgi -q astro_colloquium.php > index.html'
 #rsync now
 #cmd = 'rsync -trvz --delete --progress * baker:/home/web/creichardt/astro_group/astro_colloquium/'
 #cmd = 'rsync -trvz --delete --progress * baker:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'

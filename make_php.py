@@ -76,7 +76,15 @@ for rec in records[::-1]:
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html
-#cmd = 'php-cgi -q astro_colloquium.php > index.html'
+cmd = 'php-cgi -q astro_colloquium.php > index.html'
+os.system(cmd)
+#update github page
+cmd = "git add ."
+os.system(cmd)
+cmd = "git commit -m 'update speaker'"
+os.system(cmd)
+cmd = "git push"
+os.system(cmd)
 #rsync now
 #cmd = 'rsync -trvz --delete --progress * baker:/home/web/creichardt/astro_group/astro_colloquium/'
 cmd = 'rsync -trvz --delete --progress * uom:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'

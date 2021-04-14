@@ -74,10 +74,11 @@ for rec in records[::-1]:
     opfile.close()
     print('html file created for %s: %s' %(rec[3], op_page_name))
 
+np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html
-cmd = 'php-cgi -q astro_colloquium.php > index.html'
+#cmd = 'php-cgi -q astro_colloquium.php > index.html'
 #rsync now
 #cmd = 'rsync -trvz --delete --progress * baker:/home/web/creichardt/astro_group/astro_colloquium/'
-#cmd = 'rsync -trvz --delete --progress * baker:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'
+cmd = 'rsync -trvz --delete --progress * uom:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'
 os.system(cmd)
 

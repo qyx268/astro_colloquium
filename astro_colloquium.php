@@ -27,9 +27,11 @@ font-family: Optima;
 <?php
 
 $details_line_arr = file('astro_colloquium.txt');
+$all_speaker_arr = file('html.txt');
 
 $yearmonarr = array();
 $i = 0;
+$j = 0;
 while ($i <= count($details_line_arr)) 
 {
 	if (strlen(trim($details_line_arr[$i])) <= 1){$i = $i + 1;continue;}
@@ -57,12 +59,13 @@ while ($i <= count($details_line_arr))
 			$yearmonarr[] = $curryearmonval;
 			}
 		$details_arr["date"][] = date('d M-y', strtotime($curryyyymmdd))  . '<br>' . $currtimeval;
-		$op_page_name = "talks/" . str_replace(" ", "_", $details_line_split[3]) . ".html";
+		$op_page_name = "talks/" . $all_speaker_arr[$j] . ".html";
 		$details_arr["link"][] = $op_page_name;
 		if ($slide_link != '-')
 		{
 			$slide_link = 'talks/slides/' . $slide_link;
 		}
+	    $j = $j + 1;
 
 	}
 	else

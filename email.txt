@@ -1,12 +1,11 @@
-[status pending]
+[status publish]
 [category Colloquium]
-[slug Prof._David_Jamieson.html]
+[slug Prof_Alan_Duffy.html]
 [comments off]
-Wednesday 17 Mar 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Prof. David Jamieson</strong>, <em>University of Melbourne</em>
-Email: d.jamieson@unimelb.edu.au
+Wednesday 14 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
 <section>
 <h2>Abstract</h2>
-Galileo's prolific letters to friends, colleagues, patrons and other associates are valuable treatises in their own right.  A letter he wrote on 21 December 1613 to a former student in Prague sets out his forthright views on the relationship between religious doctrine and science.  Galileo's letter found its way into the hands of the Inquisition in Rome and this ultimately led to Galileo's conviction of "vehement suspicion of heresy".  Galileo must have realised his letter would cause trouble because he claimed the letter passed to the authorities in Rome had been altered by malevolent forces out to damage him and strengthen their case for heresy.  He released a new version of the letter with much less inflammatory language which he claimed was the original.  In a sensational discovery in the library of the Royal Society in London UK, Galileo's claim of alteration is shown to be false.  Incorrectly filed for 250 years, the original of the inflammatory letter was accidentally rediscovered in 2018, with edits in Galileo's own handwriting to tone down the language.  This is a remarkable piece of history about a physicist facing dire consequences at the hands of the authorities.  A particular passage in the letter has captured my attention.  Galileo wrote "This (scientific knowledge) applies especially to those sciences about which one can read only very small phrases and scattered conclusions in the Scripture as is particularly the case for astronomy, of which it contains such a small portion that one does not even find in it the names of all the planets."  I will link this statement back to Galileo's observations of the planet Neptune that occurred in December 1612 to January 1613 just on one year before he wrote his inflammatory letter.  We may be able to glean new insights into his thinking at the time.
+TBC
 <\section>
 [end]

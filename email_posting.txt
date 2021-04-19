@@ -1,36 +1,9 @@
-
+[status pending]
 [category Colloquium]
-
-
 [slug Dr._xxx_xxx.html]
 [comments off]
-
-<style type="text/css">
-a:link {color: #4d476b; text-decoration: underline; }
-a:active {color: #4d476b; text-decoration: underline; }
-a:visited {color: #4d476b; text-decoration: underline; }
-.profile-pic{
-    width: 45;
-    height: 45;
-    position: left;
-    border-radius: 50%;
-    overflow: hidden;
-    border-top: 0.1px solid #111;
-    border-right: 0.1px solid #111;
-    background: #fff;
-}
-body{
-margin:0.5em;
-background-color: #FFFFFE;
-}
-</style>
-
-<div class="profile-pic">
-<img
-src="https://blogs.unimelb.edu.au/astroadm/files/2017/06/d.jpeg"
-alt="" />
-<strong>Dr. David Parkinson</strong>, <em>ARC Future Fellow, Senior
-Lecturer<strong> University of Queensland
+Wednesday December 2nd 2021@12pm, Hercus Theatre
+<strong>Dr. David Parkinson</strong>, <em>ARC Future Fellow, Senior Lecturer<strong> University of Queensland
 </strong></em>Email: d.parkinson[at]uq.edu.au
 </div>
 <section>
@@ -51,8 +24,5 @@ have been applied to the observed parameter tension between the cosmic
 microwave background data and measurements of the weak lensing shear
 power spectrum.
 </section>
-
-
 [end]
-
 

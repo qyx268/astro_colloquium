@@ -77,9 +77,12 @@ for qq, rec in enumerate(records[-2:]):
     
     if qq ==0:
         with open('email.txt', 'w') as email_file:
-            email_file.write('[status pending]')
-            email_file.write('[category Colloquium]')
-            email_file.write('[slug %s.html]'%speakername)
-            email_file.write('[comments off]')
-            email_file.write("%s %s %s %s"%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere'], currdic['locationshouldgohere'])
-
+            email_file.write('[status pending]\n')
+            email_file.write('[category Colloquium]\n')
+            email_file.write('[slug %s.html]\n'%speakername)
+            email_file.write('[comments off]\n')
+            email_file.write("%s %s %s @ %s, %s\n"%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere'], currdic['locationshouldgohere']))
+            email_file.write('<strong>%s</strong>, <em>%s</em>\nEmail: %s\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
+            email_file.write('<section>\n<h2>Abstract</h2>\n')
+            email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
+        print('mail -s "%s"' "vuba137dile@post.wordpress.com"%currdic['titleshouldgohere'])

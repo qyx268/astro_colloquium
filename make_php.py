@@ -16,7 +16,7 @@ records = np.recfromtxt(rec_file_name, delimiter ='%%%', autostrip=1, encoding='
 ### keynames
 ### process records and create outputfiles now
 all_speakers = []
-for rec in records[::-1]:
+for irecord, rec in enumerate(records[::-1]):
     speakername = rec[3].replace(' ', '_')
     Nsamespeaker = 2
     while speakername in all_speakers:
@@ -73,6 +73,18 @@ for rec in records[::-1]:
         opfile.writelines(opline)
     opfile.close()
     print('html file created for %s: %s' %(rec[3], op_page_name))
+
+with open('email.txt', 'w') as email_file:
+    email_file.write('[status pending]\n')
+    email_file.write('[category Colloquium]\n')
+    email_file.write('[slug %s.html]\n'%speakername)
+    email_file.write('[comments off]\n')
+    email_file.write("%s %s %s @ %s, %s\n"%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere'], currdic['locationshouldgohere']))
+    email_file.write('<strong>%s</strong>, <em>%s</em>\nEmail: %s\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
+    email_file.write('<section>\n<h2>Abstract</h2>\n')
+    email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
+print('mail -s "%s"' "vuba137dile@post.wordpress.com"%currdic['titleshouldgohere'])
+
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html

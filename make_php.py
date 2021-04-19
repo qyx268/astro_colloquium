@@ -92,7 +92,7 @@ os.system(cmd)
 #update github page
 cmd = "git add ."
 os.system(cmd)
-cmd = "git commit -m 'update speaker'"
+cmd = "git commit -m 'update speaker %s'"%speakername
 os.system(cmd)
 cmd = "git push"
 os.system(cmd)

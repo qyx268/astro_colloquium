@@ -83,7 +83,7 @@ with open('email.txt', 'w') as email_file:
     email_file.write('<strong>%s</strong>, <em>%s</em>\nEmail: %s\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
     email_file.write('<section>\n<h2>Abstract</h2>\n')
     email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
-print('mail -s "%s"' "vuba137dile@post.wordpress.com"%currdic['titleshouldgohere'])
+print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['titleshouldgohere'])
 
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
@@ -99,6 +99,6 @@ cmd = "git push"
 os.system(cmd)
 #rsync now
 #cmd = 'rsync -trvz --delete --progress * baker:/home/web/creichardt/astro_group/astro_colloquium/'
-cmd = 'rsync -trvz --delete --progress * uom:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'
+cmd = 'rsync -trz --delete --progress * uom:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'
 os.system(cmd)
 

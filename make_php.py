@@ -97,7 +97,7 @@ print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['title
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html
-cmd = 'php-cgi -q astro_colloquium.php > index.html'
+cmd = 'php-cgi -q astro_colloquium.php 1>index.html 2>/dev/null'
 os.system(cmd)
 #update github page
 cmd = "git add ."

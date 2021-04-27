@@ -1,5 +1,12 @@
 import numpy as np, os, sys, datetime, calendar, time
 
+commit_message = sys.argv[1]
+print(len(sys.argv))
+if len(sys.argv)<=2:
+    Nmake = 1
+else:
+    Nmake = int(sys.argv[2])
+
 ### first read the template
 template_file_name = 'Unimelb_seminar_template.html'
 template_file = open(template_file_name, 'r')
@@ -16,6 +23,7 @@ records = np.recfromtxt(rec_file_name, delimiter ='%%%', autostrip=1, encoding='
 ### keynames
 ### process records and create outputfiles now
 all_speakers = []
+Ntotal = len(records)
 for irecord, rec in enumerate(records[::-1]):
     speakername = rec[3].replace(' ', '_')
     Nsamespeaker = 2
@@ -46,6 +54,8 @@ for irecord, rec in enumerate(records[::-1]):
         op_page_name_split[1] = '_'.join(op_page_name_split[1:])
         op_page_name = '/'.join(op_page_name_split[0:2])
     """
+    if Ntotal - irecord > Nmake:
+        continue
     opfile = open(op_page_name, 'w')    
     for lines in template:
         opline = lines
@@ -92,7 +102,7 @@ os.system(cmd)
 #update github page
 cmd = "git add ."
 os.system(cmd)
-cmd = "git commit -m '%s'"%sys.argv[1]
+cmd = "git commit -m '%s'"%commit_message
 os.system(cmd)
 cmd = "git push"
 os.system(cmd)

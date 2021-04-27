@@ -98,6 +98,6 @@ cmd = "git push"
 os.system(cmd)
 #rsync now
 #cmd = 'rsync -trvz --delete --progress * baker:/home/web/creichardt/astro_group/astro_colloquium/'
-cmd = 'rsync -trz --delete --progress * uom:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'
+cmd = 'rsync -trz * uom:/autofsimports/webpersonal/creichardt/astro_group/astro_colloquium/'
 os.system(cmd)
 

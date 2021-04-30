@@ -135,6 +135,7 @@ $yearmonarr = array_unique($yearmonarr);
 		</font>
 <br>
 <br>
+---------------------------------------------------------------
 <br>
 <font size=2px color='black'>
 Topic: UniMelb Astro Colloquiumi<br>
@@ -149,7 +150,7 @@ Dial (US): +1 669 900 6833 or +1 646 876 9923<br>
 Dial (Hong Kong, China): +852 5808 6088 or +852 5803 3730<br>
 Dial (UK): +44 203 481 5240 or +44 131 460 1196<br>
 Meeting ID: 881 2372 3593<br>
-International numbers available: https://unimelb.zoom.us/u/kcneQZPPcm<br>
+International numbers available: <a href=https://unimelb.zoom.us/u/kcneQZPPcm>https://unimelb.zoom.us/u/kcneQZPPcm</a><br>
 <br>
 Or join from a H.323/SIP room system:<br>
 <br>

@@ -1,7 +1,6 @@
 import numpy as np, os, sys, datetime, calendar, time
 
 commit_message = sys.argv[1]
-print(len(sys.argv))
 if len(sys.argv)<=2:
     Nmake = 1
 else:

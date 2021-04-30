@@ -134,12 +134,15 @@ $yearmonarr = array_unique($yearmonarr);
 		<font size=2px color='black'>Welcome to the Astro colloquium page. The seminars are normally held on <strong>Wednesdays at noon in the Level 2 <a href="https://maps.unimelb.edu.au/parkville/building/192/l105" target="_blank">Hercus Theatre </a></strong> <a href="https://www.google.com/maps/place/School+of+Physics/@-37.7967183,144.9638101,15z/data=!4m2!3m1!1s0x0:0x95244083bd9a841?sa=X&ved=2ahUKEwiPtbng8_rvAhU4zzgGHbEfAi8Q_BIwG3oECCoQBQ" target="_blank">David Caro building, School of Physics</a></strong>. Please contact the current seminar organiser <a href="mailto:yuxiang.qin@unimelb.edu.au">Yuxiang Qin</a> for further details. We might support Zoom for some talks using the following link.
 		</font>
 <br>
+<br>
+<br>
+<font size=2px color='black'>
 Topic: UniMelb Astro Colloquiumi<br>
 Time: This is a recurring meeting Meet anytime<br>
-
+<br>
 Join from PC, Mac, iOS or Android: <a href=https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09>https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09</a><br> 
 Password: 192<br>
-
+<br>
 Or join by phone:<br>
 Dial (Australia): +61 3 7018 2005 or +61 2 8015 6011<br>
 Dial (US): +1 669 900 6833 or +1 646 876 9923<br>
@@ -147,14 +150,15 @@ Dial (Hong Kong, China): +852 5808 6088 or +852 5803 3730<br>
 Dial (UK): +44 203 481 5240 or +44 131 460 1196<br>
 Meeting ID: 881 2372 3593<br>
 International numbers available: https://unimelb.zoom.us/u/kcneQZPPcm<br>
-
+<br>
 Or join from a H.323/SIP room system:<br>
-
+<br>
 Dial:88123723593@zoom.aarnet.edu.au<br>
 or SIP:88123723593@zmau.us<br>
 or 103.122.166.55<br>
 Meeting ID: 88123723593<br>
 Password: 192 <br>
+		</font>
 		</td>
 		</tr>
 		<tr><td>&nbsp;</td>

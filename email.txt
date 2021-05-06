@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Prof_Alan_Duffy.html]
+[slug James_Esdaile.html]
 [comments off]
-Wednesday 14 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
+Wednesday 12 May 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>James Esdaile</strong>, <em>Swinburne University</em>; Email: jesdaile[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+In the early Universe one might expect only star-forming galaxies but there is now substantial evidence that some massive galaxies have quenched star-formation within the first billion years of galaxy evolution. These massive quiescent galaxies (MQG) have proven difficult to reproduce in sufficient numbers in cosmological hydrodynamical simulations. While the latest generation of simulations have begun to achieve more consistent number densities through detailed prescriptions of AGN feedback, the observed quenched galaxies still appear to quench at earlier epochs. This begs the question: how early in the Universe can we still find quiescent galaxies? Additionally, high redshift MQGs host old stellar populations that can provide insights into the star-formation conditions during the epoch of reionisation. The intense star-bursts that likely formed MQGs are expected to have a different distribution of stellar masses, the initial-mass function (IMF), compared to local elliptical galaxies. I present work done to identify these rare MQGs at high redshift based on the FENIKS survey and determine some of their physical properties using a combination of deep HST imaging and MOSFIRE spectra.
 <\section>
 [end]

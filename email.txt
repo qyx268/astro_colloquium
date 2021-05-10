@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Manodeep_Sinha.html]
+[slug A_Prof_Duane_Hamacher.html]
 [comments off]
-Wednesday 28 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Dr Manodeep Sinha</strong>, <em>Swinburne University</em>; Email: msinha[at]swinburne.edu.au
+Wednesday 19 May 2021 @ 11:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>A Prof Duane Hamacher</strong>, <em>University of Melbourne</em>; Email: duane.hamacher[at]unimelb.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+Australia's First People developed complex knowledge systems that are committed to memory and passed to successive generations through oral tradition. The length of time oral traditions can be passed down while maintaining vitality is a topic of ongoing debate. Scientific techniques have been utilised to date natural events described in oral tradition, such as volcanic eruptions, tsunamis, and meteorite impacts to provide a terminus ante quem for the origin or development of these oral traditions. In this talk, we analyse Tasmanian Aboriginal (palawa) oral traditions recorded in the early nineteenth century that describe the flooding of the Bassian Land Bridge connecting Tasmania to mainland Australia, as well as the presence of a culturally significant “Great South Star”. Using astro-chronological and geo-chronological techniques, we show that these traditions have a terminus ante quem of approximately 12,000 years.
 <\section>
 [end]

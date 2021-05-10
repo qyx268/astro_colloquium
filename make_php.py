@@ -6,6 +6,11 @@ if len(sys.argv)<=2:
 else:
     Nmake = int(sys.argv[2])
 
+if len(sys.argv)<=3:
+    Nmake_email = 1
+else:
+    Nmake_email = int(sys.argv[3])
+
 ### first read the template
 template_file_name = 'Unimelb_seminar_template.html'
 template_file = open(template_file_name, 'r')
@@ -83,16 +88,17 @@ for irecord, rec in enumerate(records[::-1]):
     opfile.close()
     print('html file created for %s: %s' %(rec[3], op_page_name))
 
-with open('email.txt', 'w') as email_file:
-    email_file.write('[status publish]\n')
-    email_file.write('[category Colloquium]\n')
-    email_file.write('[slug %s.html]\n'%speakername)
-    email_file.write('[comments off]\n')
-    email_file.write("%s %s %s @ %s, %s\n"%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere'], currdic['locationshouldgohere']))
-    email_file.write('<strong>%s</strong>, <em>%s</em>; Email: %s\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
-    email_file.write('<section>\n<h2>Abstract</h2>\n')
-    email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
-print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['titleshouldgohere'])
+    if  Ntotal - irecord == Nmake_email:
+        with open('email.txt', 'w') as email_file:
+            email_file.write('[status publish]\n')
+            email_file.write('[category Colloquium]\n')
+            email_file.write('[slug %s.html]\n'%speakername)
+            email_file.write('[comments off]\n')
+            email_file.write("%s %s %s @ %s, %s\n"%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere'], currdic['locationshouldgohere']))
+            email_file.write('<strong>%s</strong>, <em>%s</em>; Email: %s\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
+            email_file.write('<section>\n<h2>Abstract</h2>\n')
+            email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
+        print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['titleshouldgohere'])
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html

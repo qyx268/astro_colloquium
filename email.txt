@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Prof_Alan_Duffy.html]
+[slug Dr_Manodeep_Sinha.html]
 [comments off]
-Wednesday 14 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
+Wednesday 28 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Dr Manodeep Sinha</strong>, <em>Swinburne University</em>; Email: msinha[at]swinburne.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

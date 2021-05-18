@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Rebecca_Davies.html]
+[slug Prof_Alan_Duffy.html]
 [comments off]
-Wednesday 04 Aug 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Dr Rebecca Davies</strong>, <em>Swinburne University</em>; Email: rdavies[at]swinburne.edu.au
+Wednesday 01 Sep 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

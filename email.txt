@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof_Paul_Lasky.html]
+[slug Dr_Xingjiang_Zhu_2.html]
 [comments off]
-Wednesday 15 Sep 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>A Prof Paul Lasky</strong>, <em>Monash University</em>; Email: Paul.Lasky[at]monash.edu
+Wednesday 02 Jun 2021 @ 12:00 p.m., Zoom
+<strong>Dr Xingjiang Zhu</strong>, <em>Beijing Normal University</em>; Email: zhuxj[at]bnu.edu.cn
 <section>
 <h2>Abstract</h2>
-TBC
+Gravitational wave astronomy is revolutionizing our understanding of the Universe. Since the historic discovery of GW150914 five years ago, LIGO and Virgo detectors have discovered 50 compact binary merger events. These merger events, lasting from fractions of seconds to minutes, include stellar-mass binary black holes, binary neutron stars and likely neutron star-black hole binaries. Meanwhile, pulsar timing arrays have been used to search for gravitational waves with periods of years to decades. After several decades of international efforts, it is believed that we are approaching the sensitivity to detect waves from supermassive binary black holes. In this talk, I will summarize recent progresses and future prospects of gravitational wave astronomy on both short and long timescales, with a focus on the study of binary neutron stars and recent results from the Parkes Pulsar Timing Array.
 <\section>
 [end]

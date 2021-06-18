@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug AProf_Randall_Wayth.html]
+[slug Laura_Sommovigo.html]
 [comments off]
-Wednesday 16 Jun 2021 @ 12:00 p.m., Zoom
-<strong>AProf Randall Wayth</strong>, <em>Curtin University</em>; Email: R.Wayth[at]curtin.edu.au
+Wednesday 23 Jun 2021 @ 16:00 p.m., Zoom
+<strong>Laura Sommovigo</strong>, <em>Scuola Normale Superiore</em>; Email: laura.sommovigo[at]sns.it
 <section>
 <h2>Abstract</h2>
-Fast Radio Bursts (FRB) are one of the most intriguing transient phenomena discovered in the recent years, and recently observed down to 100-MHz frequencies. I will present the first southern hemisphere all-sky real-time imaging and radio-transient monitoring system, implemented on two prototype stations of the low frequency (50 - 350 MHz) component of the Square Kilometre Array (SKA-Low), the Engineering Development Array 2 (EDA2) and Aperture Array Verification System 2 (AAVS2). For the last two years these prototypes have been regularly collecting data to verify their performance against the SKA-Low specifications and simulations, including making all-sky images every two seconds used for transient searches. The transient identification algorithm used 2-second difference images to find candidates and required their detection in the images from both stations. In approximately 360 hours of data using a single coarse channel (0.926 MHz bandwidth), we identified a few episodes of extremely bright pulses from the pulsar PSR B0950+08 and several transients from an unknown object, which is currently under investigation. We also determined preliminary upper limits on surface density of radio transients at a 2-second timescale. We plan to increase the bandwidth by at least 40 times (to about 40 MHz) and time resolution to 10 ms or better in order to improve the sensitivity by two orders of magnitude and start detecting hundreds of FRBs per year. This upgrade will transform the stations into low-frequency FRB survey machines looking for FRBs and signals from extraterrestrial intelligence in high-time resolution all-sky images, which will pave the way to similar searches with hundreds of SKA-Low stations.
+TBC
 <\section>
 [end]

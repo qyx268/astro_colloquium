@@ -27,7 +27,7 @@
 #
 20210825%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20210818%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
+20210818%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
 20210811%%%12:00 p.m.%%%Zoom%%%Dr Janakee Raste%%%Tata Institue of Fundamental Research%%%TBC%%%TBC%%%-%%%Postdoc%%%no_image.png%%%-%%%-%%janakee[at]theory.tifr.res.in%%%-
 #

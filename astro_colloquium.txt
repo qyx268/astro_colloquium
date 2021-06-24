@@ -3,6 +3,10 @@
 #
 20210901%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
+20210818%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%-%%%-
+#
+20210811%%%12:00 p.m.%%%Zoom%%%Dr Janakee Raste%%%Tata Institue of Fundamental Research%%%TBC%%%TBC%%%-%%%Postdoc%%%no_image.png%%%-%%%-%%janakee[at]theory.tifr.res.in%%%-
+#
 20210804%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Rebecca Davies%%%Swinburne University%%%TBC%%%TBC%%%-%%%ASTRO 3D Postdoctoral Research Associate%%%rdavies.png%%%-%%%rdavies[at]swinburne.edu.au%%%-
 #
 20210728%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Manodeep Sinha%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Software Scientist%%%msinha.jpg%%%-%%%msinha[at]swinburne.edu.au%%%-

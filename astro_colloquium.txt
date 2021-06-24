@@ -1,9 +1,33 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
+20211124%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211117%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211110%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211103%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211027%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211020%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211013%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20211006%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20210929%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20210922%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
 20210915%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Paul Lasky%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%plasky.jpg%%%-%%%Paul.Lasky[at]monash.edu%%%-
+#
+20210908%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210901%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
-20210818%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%-%%%-
+20210825%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20210818%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210811%%%12:00 p.m.%%%Zoom%%%Dr Janakee Raste%%%Tata Institue of Fundamental Research%%%TBC%%%TBC%%%-%%%Postdoc%%%no_image.png%%%-%%%-%%janakee[at]theory.tifr.res.in%%%-
 #

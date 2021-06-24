@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Adam_Batten.html]
+[slug Prof_Alan_Duffy.html]
 [comments off]
-Wednesday 30 Jun 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Adam Batten</strong>, <em>Swinburne University</em>; Email: abatten[at]swin.edu.au
+Wednesday 01 Sep 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
 <section>
 <h2>Abstract</h2>
-The Intergalactic Medium (IGM) is a difficult observe in the optical and UV due to the high temperatures (T ~ 10^6K) and low densities (n ~ 10^-6 cm^-3) leading to a lack of favourable transition lines. The dispersion measure (DM) of fast radio bursts (FRBs) provides a unique new way to probe the ionized baryons in the IGM. Cosmological models with different parameters lead to different DM-redshift (DM−z) relations. Additionally, the over/under-dense regions in the IGM and intervening galaxies' circumgalactic medium lead to scattering around the mean DM−z relations. I will present the recent work I have done using the Evolution and Assembly of GaLaxies and their Environments (EAGLE) simulations to study the DM-z relation, and the scatter around it. I find that almost all of the FRBs found at low-redshifts have significantly larger observed DMs than predicted from simulations. I will also show that we would need of the order 9000 localised FRBs to constrain AGN feedback efficiency. Finally I will talk about a future project measuring the metallicity of the IGM in EAGLE and the sizes of ‘metal bubbles’ around galaxies at the end of the epoch of reionisation.
+TBC
 <\section>
 [end]

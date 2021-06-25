@@ -1,4 +1,3 @@
-Not_Assigned_12
 Not_Assigned_11
 Not_Assigned_10
 Not_Assigned_9
@@ -7,6 +6,7 @@ Not_Assigned_7
 Not_Assigned_6
 Not_Assigned_5
 Not_Assigned_4
+Professor_Matthew_Bailes
 Not_Assigned_3
 A_Prof_Paul_Lasky
 Not_Assigned_2

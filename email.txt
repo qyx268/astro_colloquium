@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Not_Assigned_10.html]
+[slug Associate_Professor_Michelle_Cluver.html]
 [comments off]
-Wednesday 24 Nov 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Not Assigned</strong>, <em>-</em>; Email: -
+Wednesday 06 Oct 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Associate Professor Michelle Cluver</strong>, <em>Swinburne University</em>; Email: mcluver[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

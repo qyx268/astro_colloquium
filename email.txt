@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Professor_Matthew_Bailes.html]
+[slug Not_Assigned_10.html]
 [comments off]
-Wednesday 29 Sep 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Professor Matthew Bailes</strong>, <em>Swinburne University</em>; Email: mbailes[at]swin.edu.au
+Wednesday 24 Nov 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Not Assigned</strong>, <em>-</em>; Email: -
 <section>
 <h2>Abstract</h2>
 TBC

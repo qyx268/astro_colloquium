@@ -21,11 +21,11 @@
 #
 20210915%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Paul Lasky%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%plasky.jpg%%%-%%%Paul.Lasky[at]monash.edu%%%-
 #
-20210908%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20210908%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Eric Thrane%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%ethrane.jpeg%%%-%%%eric.thrane[a]monash.edu%%%-
 #
 20210901%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
-20210825%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20210825%%%12:00 p.m.%%%Zoom%%%Kshitij Aggarwal%%%West Virginia University%%%TBC%%%TBC%%%-%%%PhD Student%%%no_image.png%%%-%%%-%%ka0064[at]mix.wvu.edu%%%-
 #
 20210818%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
@@ -39,7 +39,7 @@
 #
 20210714%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%CANCELLED%%%ASA ASM week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20210707%%%12:00 p.m.%%%Zoom%%%Kshitij Aggarwal%%%West Virginia University%%%TBC%%%TBC%%%-%%%PhD Student%%%no_image.png%%%-%%%-%%ka0064[at]mix.wvu.edu%%%-
+20210707%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210630%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Adam Batten%%%Swinburne University%%%Probing the Intergalactic Medium with Fast Radio Bursts and Hydrodynamic Simulations%%%The Intergalactic Medium (IGM) is a difficult observe in the optical and UV due to the high temperatures (T ~ 10^6K) and low densities (n ~ 10^-6 cm^-3) leading to a lack of favourable transition lines. The dispersion measure (DM) of fast radio bursts (FRBs) provides a unique new way to probe the ionized baryons in the IGM. Cosmological models with different parameters lead to different DM-redshift (DM−z) relations. Additionally, the over/under-dense regions in the IGM and intervening galaxies' circumgalactic medium lead to scattering around the mean DM−z relations. I will present the recent work I have done using the Evolution and Assembly of GaLaxies and their Environments (EAGLE) simulations to study the DM-z relation, and the scatter around it. I find that almost all of the FRBs found at low-redshifts have significantly larger observed DMs than predicted from simulations. I will also show that we would need of the order 9000 localised FRBs to constrain AGN feedback efficiency. Finally I will talk about a future project measuring the metallicity of the IGM in EAGLE and the sizes of ‘metal bubbles’ around galaxies at the end of the epoch of reionisation. %%%-%%%PhD Student%%%abatten.jpg%%%-%%%abatten[at]swin.edu.au%%%-
 #

@@ -1,8 +1,8 @@
 [status publish]
 [category Colloquium]
-[slug Not_Assigned_9.html]
+[slug Not_Assigned_2.html]
 [comments off]
-Wednesday 24 Nov 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+Wednesday 22 Sep 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
 <strong>Not Assigned</strong>, <em>-</em>; Email: -
 <section>
 <h2>Abstract</h2>

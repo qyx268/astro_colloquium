@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Not_Assigned.html]
+[slug Associate_Prof._Ivo_Labbe_2.html]
 [comments off]
-Wednesday 22 Sep 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Not Assigned</strong>, <em>-</em>; Email: -
+Wednesday 18 Aug 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Associate Prof. Ivo Labbe</strong>, <em>Swinburne University</em>; Email: ilabbe[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

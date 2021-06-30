@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug CANCELLED.html]
+[slug Laura_Sommovigo.html]
 [comments off]
-Wednesday 14 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>CANCELLED</strong>, <em>ASA ASM week</em>; Email: -
+Wednesday 23 Jun 2021 @ 16:00 p.m., Zoom
+<strong>Laura Sommovigo</strong>, <em>Scuola Normale Superiore</em>; Email: laura.sommovigo[at]sns.it
 <section>
 <h2>Abstract</h2>
--
+ALMA observations have revealed the presence of dust in the first generations of galaxies in the Universe. However, the dust temperature Td remains mostly unconstrained due to the few available FIR continuum data. This introduces large uncertainties in the derived dust masses, infrared luminosities, and obscured fraction of star formation of high-z (z>5) galaxies. We have developed a new analytical method that allows us to constrain Td using a single continuum data point at 158 microns by combining it with the overlying CII emission. With our method, one can analyse uniquely CII and continuum detections, and the targets of ALMA large programs such as ALPINE and REBELS. In particular, REBELS is providing us with unprecedented numerous continuum detections at z>7, increasing of a factor ~6 the available data so far. Our analysis of these sources will shed light on the evolution of the dust temperature and dependent quantities with redshift, glimpsing the Epoch of Reionization (EoR) for the first time. Preliminary results indicate that the dust temperature increases at a higher redshift, with a larger scatter w.r.t. to that observed in the local universe. We physically motivate the increasing Td-redshift trend as a consequence of the decreasing total gas depletion time induced by a more vigorous cosmological accretion at early times. A higher Td has testable implications: (a) it reduces the tension between local and high-z IRX-β relation, (b) it alleviates the problem of the uncomfortably large dust masses deduced from observations of some EoR galaxies, (c) it results in a larger obscured fraction of the SFR. This is consistent with the flattening of the cosmic Star Formation Rate Density (SFRD) at z>4 suggested by recent observations at FIR and radio wavelengths of dusty UV-obscured systems.
 <\section>
 [end]

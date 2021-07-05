@@ -17,13 +17,13 @@
 #
 20210929%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
 #
-20210922%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20210922%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
 20210915%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Paul Lasky%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%plasky.jpg%%%-%%%Paul.Lasky[at]monash.edu%%%-
 #
 20210908%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Eric Thrane%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%ethrane.jpeg%%%-%%%eric.thrane[a]monash.edu%%%-
 #
-20210901%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
+20210901%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%CANCELLED%%%ASTRO-3D Science Meeting week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210825%%%12:00 p.m.%%%Zoom%%%Kshitij Aggarwal%%%West Virginia University%%%TBC%%%TBC%%%-%%%PhD Student%%%no_image.png%%%-%%%-%%ka0064[at]mix.wvu.edu%%%-
 #
@@ -35,7 +35,7 @@
 #
 20210728%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Manodeep Sinha%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Software Scientist%%%msinha.jpg%%%-%%%msinha[at]swinburne.edu.au%%%-
 #
-20210721%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%CANCELLED%%%ASTRO-3D Science Meeting week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20210721%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210714%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%CANCELLED%%%ASA ASM week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

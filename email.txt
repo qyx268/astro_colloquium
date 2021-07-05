@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Rory_Smith.html]
+[slug CANCELLED.html]
 [comments off]
-Wednesday 07 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Dr Rory Smith</strong>, <em>Monash University</em>; Email: Rory.Smith[at]monash.edu
+Wednesday 14 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>CANCELLED</strong>, <em>ASA ASM week</em>; Email: -
 <section>
 <h2>Abstract</h2>
-In January 2020, the LIGO and Virgo observatories twice detected gravitational waves from the inspiral and merger of neutron stars with black holes. In this talk, I will describe the detection and characterization of this observation of a new source of gravitational waves, which also represents the first observation of neutron star-black hole binaries.
+-
 <\section>
 [end]

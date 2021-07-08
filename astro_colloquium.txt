@@ -5,7 +5,7 @@
 #
 20211110%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20211103%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20211103%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Professor Michelle Cluver%%%Swinburne University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%mcluver.jpg%%%-%%%mcluver[at]swin.edu.au%%%-
 #
 20211027%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
@@ -13,7 +13,7 @@
 #
 20211013%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20211006%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Professor Michelle Cluver%%%Swinburne University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%mcluver.jpg%%%-%%%mcluver[at]swin.edu.au%%%-
+20211006%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210929%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
 #
@@ -39,7 +39,7 @@
 #
 20210714%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%CANCELLED%%%ASA ASM week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20210707%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Rory Smith%%%Monash University%%%Observation of gravitational waves from two neutron star-black hole coalescences%%%In January 2020, the LIGO and Virgo observatories twice detected gravitational waves from the inspiral and merger of neutron stars with black holes. In this talk, I will describe the detection and characterization of this observation of a new source of gravitational waves, which also represents the first observation of neutron star-black hole binaries.%%%-%%%Lecturer%%%rsmith.jpg%%%-%%%Rory.Smith[at]monash.edu%%%-
+20210707%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Rory Smith%%%Monash University%%%Observation of gravitational waves from two neutron star-black hole coalescences%%%In January 2020, the LIGO and Virgo observatories twice detected gravitational waves from the inspiral and merger of neutron stars with black holes. In this talk, I will describe the detection and characterization of this observation of a new source of gravitational waves, which also represents the first observation of neutron star-black hole binaries.%%%-%%%Lecturer%%%rsmith.jpg%%%-%%%Rory.Smith[at]monash.edu%%%rsmith.mp4
 #
 20210630%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Adam Batten%%%Swinburne University%%%Probing the Intergalactic Medium with Fast Radio Bursts and Hydrodynamic Simulations%%%The Intergalactic Medium (IGM) is a difficult observe in the optical and UV due to the high temperatures (T ~ 10^6K) and low densities (n ~ 10^-6 cm^-3) leading to a lack of favourable transition lines. The dispersion measure (DM) of fast radio bursts (FRBs) provides a unique new way to probe the ionized baryons in the IGM. Cosmological models with different parameters lead to different DM-redshift (DM−z) relations. Additionally, the over/under-dense regions in the IGM and intervening galaxies' circumgalactic medium lead to scattering around the mean DM−z relations. I will present the recent work I have done using the Evolution and Assembly of GaLaxies and their Environments (EAGLE) simulations to study the DM-z relation, and the scatter around it. I find that almost all of the FRBs found at low-redshifts have significantly larger observed DMs than predicted from simulations. I will also show that we would need of the order 9000 localised FRBs to constrain AGN feedback efficiency. Finally I will talk about a future project measuring the metallicity of the IGM in EAGLE and the sizes of ‘metal bubbles’ around galaxies at the end of the epoch of reionisation. %%%-%%%PhD Student%%%abatten.jpg%%%-%%%abatten[at]swin.edu.au%%%abatten.mp4
 #

@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug CANCELLED.html]
+[slug Dr_Anshu_Gupta.html]
 [comments off]
-Wednesday 14 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>CANCELLED</strong>, <em>ASA ASM week</em>; Email: -
+Wednesday 21 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Dr Anshu Gupta</strong>, <em>Curtin Institute of Radio Astronomy</em>; Email: -
 <section>
 <h2>Abstract</h2>
--
+I combine optical and near-infrared spectroscopy of galaxies with state-of-the-art cosmological simulations to study the galaxy formation and evolution. In this talk, I will present recent results where we find that massive galaxies grow via accretion of stars (ex situ growth) from other galaxies at z<3, and links between the size of the stellar disk and their star-formation histories.</p><p>In this second half, I will introduce recent results from the MOSEL survey which is an ongoing spectroscopic survey of emission-line galaxies at z=3-4. MOSEL sample include about 20 metal-poor (Z<0.1 Zsun), low stellar mass (10^9 Msun) galaxies with high star formation rate (5-10 times the typical star-forming galaxy) and [OIII] equivalent widths (>600 A), making them analogous to EoR galaxies. We have obtained deep KMOS/MOSFIRE spectroscopic and nearly 40-band photometric data for these targets. I will present a preliminary analysis where we find early evidence of outflows in galaxies with [OIII] EWs > 1000A. I will argue that the EoR analogs is a unique sample to constrain the production efficiency of the ionizing photons and their escape fraction in z>6 galaxies. This sample will be an excellent comparison for the future observations of z=6-9 galaxies with JWST.
 <\section>
 [end]

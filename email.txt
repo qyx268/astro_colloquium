@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Manodeep_Sinha.html]
+[slug Dr_Anshu_Gupta.html]
 [comments off]
-Wednesday 28 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Dr Manodeep Sinha</strong>, <em>Swinburne University</em>; Email: msinha[at]swinburne.edu.au
+Wednesday 21 Jul 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Dr Anshu Gupta</strong>, <em>Curtin Institute of Radio Astronomy</em>; Email: anshu.gupta[at]curtin.edu.au
 <section>
 <h2>Abstract</h2>
-Software is now critical for modern research, and frequently, scientific breakthroughs are enabled by high-quality and innovative research software. Consequently, there is an increased demand for “Research Software Engineers (RSEs)” - people who are well-trained domain scientists with highly specialised software skills. However, the existing policies for rewards and recognition within academia are insufficient to hire, promote and retain these skilled RSEs. Broad community consultations are underway to finalise recommendations for a more sustainable research software ecosystem. These recommendations include both a top-down approach through funding, policy and research assessment and a bottom-up approach through actions of individual research groups and institutions. Both of these approaches are necessary to drive change in culture around research software. I will discuss the current developments surrounding research software, both nationally and in the international context. I will share various practices for software, data and communities that you can adopt to promote a more sustainable research software ecosystem.
+I combine optical and near-infrared spectroscopy of galaxies with state-of-the-art cosmological simulations to study the galaxy formation and evolution. In this talk, I will present recent results where we find that massive galaxies grow via accretion of stars (ex situ growth) from other galaxies at z<3, and links between the size of the stellar disk and their star-formation histories.</p><p>In this second half, I will introduce recent results from the MOSEL survey which is an ongoing spectroscopic survey of emission-line galaxies at z=3-4. MOSEL sample include about 20 metal-poor (Z<0.1 Zsun), low stellar mass (10^9 Msun) galaxies with high star formation rate (5-10 times the typical star-forming galaxy) and [OIII] equivalent widths (>600 A), making them analogous to EoR galaxies. We have obtained deep KMOS/MOSFIRE spectroscopic and nearly 40-band photometric data for these targets. I will present a preliminary analysis where we find early evidence of outflows in galaxies with [OIII] EWs > 1000A. I will argue that the EoR analogs is a unique sample to constrain the production efficiency of the ionizing photons and their escape fraction in z>6 galaxies. This sample will be an excellent comparison for the future observations of z=6-9 galaxies with JWST.
 <\section>
 [end]

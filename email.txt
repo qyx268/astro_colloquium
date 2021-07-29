@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Rebecca_Davies.html]
+[slug Ryan_Turner.html]
 [comments off]
-Wednesday 04 Aug 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Dr Rebecca Davies</strong>, <em>Swinburne University</em>; Email: rdavies[at]swinburne.edu.au
+Wednesday 13 Oct 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Ryan Turner</strong>, <em>Swinburne University</em>; Email: rjturner[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-Abstract: Outflows are likely to play an important role in shaping the growth and evolution of galaxies, especially at the peak epoch of star formation (z~1-3) where outflows are ubiquitous. Detailed measurements are now required to better constrain feedback models and to establish how outflows influence the properties of interstellar and circumgalactic gas. In this talk, I will highlight recent spatially resolved studies of outflows at z~2, focusing on the launch mechanisms of star-formation-driven outflows and the variety of ways in which outflows couple AGN accretion energy to gas on nuclear, galactic and circumgalactic scales. At the end, I will discuss ongoing efforts to make robust measurements of the abundances of metal ions in the circumgalactic medium at z>5.5, with the goal of understanding the mechanisms governing the production and transport of metals in the early Universe.
+TBC
 <\section>
 [end]

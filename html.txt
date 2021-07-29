@@ -1,10 +1,10 @@
-Not_Assigned_5
 Not_Assigned_4
 Not_Assigned_3
-Associate_Professor_Michelle_Cluver
 Not_Assigned_2
-Prof_Virginia_Kilborn
+Associate_Professor_Michelle_Cluver
 Not_Assigned
+Prof_Virginia_Kilborn
+Ryan_Turner
 Susan_Wei
 Professor_Matthew_Bailes
 Prof_Alan_Duffy

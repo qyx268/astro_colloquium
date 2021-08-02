@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Ryan_Turner.html]
+[slug Prof._Darren_Croton_2.html]
 [comments off]
-Wednesday 13 Oct 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Ryan Turner</strong>, <em>Swinburne University</em>; Email: rjturner[at]swin.edu.au
+Wednesday 24 Nov 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Prof. Darren Croton</strong>, <em>Swinburne University</em>; Email: dcroton[at]astro.swin.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Not_Assigned.html]
+[slug Dr_Hyunbae_Park.html]
 [comments off]
-Wednesday 18 Aug 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Not Assigned</strong>, <em>-</em>; Email: -
+Wednesday 18 Aug 2021 @ 12:00 p.m., Zoom
+<strong>Dr Hyunbae Park</strong>, <em>Kavli Institute for the Physics and Mathematics of the Universe</em>; Email: -
 <section>
 <h2>Abstract</h2>
 TBC

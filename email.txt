@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Hyunbae_Park.html]
+[slug Kshitij_Aggarwal.html]
 [comments off]
-Wednesday 18 Aug 2021 @ 12:00 p.m., Zoom
-<strong>Dr Hyunbae Park</strong>, <em>Kavli Institute for the Physics and Mathematics of the Universe</em>; Email: hcosmosb[at]g.ecc.u-tokyo.ac.jp
+Wednesday 25 Aug 2021 @ 12:00 p.m., Zoom
+<strong>Kshitij Aggarwal</strong>, <em>West Virginia University</em>; Email: -%%ka0064[at]mix.wvu.edu
 <section>
 <h2>Abstract</h2>
-We expect neutral hydrogen gas in the intergalactic space to have scattered a significant portion of Lyα emission from star-forming galaxies during the reionization era. Thus, the Lyα line strength of high-z galaxies is considered a promising probe of reionization history. In order to quantitatively understand which properties of the intergalactic medium (IGM) determine the transmission of Lya photons, we calculate the transmissivity from the simulated IGM of the Cosmic Dawn II (CoDa II) simulation and analyze the results. We find that the gravitational infall motion around the galaxy, size of the HII region, and self-shielded neutral gas systems are crucial factors. In this talk, I will elaborate on how those factors affect the observability of high redshift Lyα emitters.
+TBC
 <\section>
 [end]

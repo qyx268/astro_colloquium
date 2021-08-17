@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Grace_Olivier.html]
+[slug Kshitij_Aggarwal.html]
 [comments off]
-Wednesday 08 Sep 2021 @ 10:00 a.m., Zoom
-<strong>Grace Olivier</strong>, <em>Ohio State University</em>; Email: olivier.15[at]buckeyemail.osu.edu
+Wednesday 25 Aug 2021 @ 12:00 p.m., Zoom
+<strong>Kshitij Aggarwal</strong>, <em>West Virginia University</em>; Email: ka0064[at]mix.wvu.edu
 <section>
 <h2>Abstract</h2>
 TBC

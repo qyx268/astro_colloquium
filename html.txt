@@ -1,6 +1,6 @@
 Prof._Darren_Croton_2
 Not_Assigned_2
-Not_Assigned
+A_Prof_Paul_Lasky
 Associate_Professor_Michelle_Cluver
 Associate_Prof._Ivo_Labbe_2
 Prof_Virginia_Kilborn
@@ -8,7 +8,7 @@ Ryan_Turner
 Susan_Wei
 Professor_Matthew_Bailes
 Prof_Alan_Duffy
-A_Prof_Paul_Lasky
+Not_Assigned
 Grace_Olivier
 CANCELLED_2
 Kshitij_Aggarwal

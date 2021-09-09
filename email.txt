@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Brenna_Mockler.html]
+[slug Sophie_Lund_Schrøder.html]
 [comments off]
-Wednesday 17 Nov 2021 @ 10:00 a.m., Zoom
-<strong>Brenna Mockler</strong>, <em>University of California, Santa Cruz</em>; Email: bmockler[at]ucsc.edu
+Wednesday 22 Sep 2021 @ 16:00 p.m., Zoom
+<strong>Sophie Lund Schrøder</strong>, <em>University of Copenhagen</em>; Email: sophie.schroder[at]nbi.ku.dk
 <section>
 <h2>Abstract</h2>
 TBC

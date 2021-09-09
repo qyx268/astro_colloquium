@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Grace_Olivier.html]
+[slug Brenna_Mockler.html]
 [comments off]
-Wednesday 08 Sep 2021 @ 10:00 a.m., Zoom
-<strong>Grace Olivier</strong>, <em>Ohio State University</em>; Email: olivier.15[at]buckeyemail.osu.edu
+Wednesday 17 Nov 2021 @ 10:00 a.m., Zoom
+<strong>Brenna Mockler</strong>, <em>University of California, Santa Cruz</em>; Email: bmockler[at]ucsc.edu
 <section>
 <h2>Abstract</h2>
-Massive stars contribute incredible amounts of energy to their surroundings across a variety of environments in the universe.  Before their exciting deaths, massive stars produce feedback through a number of mechanisms that are frequently used in subgrid physics models in galaxy simulations to create realistic galaxies. Observations are a key to anchoring these simulations in reality, but there has been limited work on this front, especially for the youngest, embedded HII regions. I explore the effects of direct radiation pressure, dust-processed radiation pressure, photoionization heating and shock-heating from stellar winds in a sample of young HII regions (sources with radii < 0.5 pc) and determine which is the most important for very young stars. This analysis suggests radiative feedback on dust drives the earliest stages of HII region expansion. Additionally, I study the effects of radiative feedback in an exciting population of extremely low-metallicity star-forming galaxies that have been discovered in the local universe which are analogues to Reionization Era galaxies. During the Epoch of Reionization radiative feedback played a significant role in shaping the universe, and such analogues give us a detailed laboratory to explore the effects from feedback. I present deep FUV and optical spectra of two of these extreme emission line galaxies that have strong very-high-ionization optical and FUV emission lines (e.g., CIV, HeII, [FeV], [ArIV]).  I demonstrate that canonical photoionization models, using typical stellar population models, catastrophically fail to reproduce the high-ionization emission lines. I constrain the stellar population properties using the FUV spectral features and explore the deficiencies of current stellar models. By simultaneously fitting the stellar and nebular emission within these extremely high-ionization emission line galaxies, I provide new observational benchmarks of radiative feedback for the next generation of stellar models at very low metallicity. By studying the effects of stellar feedback from single stars in the Milky Way to entire stellar populations in analogues to the first galaxies we can begin to build a coherent picture of stellar feedback as it impacts the vast scales of the universe.
+TBC
 <\section>
 [end]

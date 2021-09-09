@@ -1,4 +1,6 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
+20220202%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
+#
 20211201%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
 20211124%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
@@ -17,7 +19,7 @@
 #
 20211006%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%Lecturer%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #
-20210929%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
+20210929%%%12:00 p.m.%%%Zoom%%%Not Assigned%%%-%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20210922%%%16:00 p.m.%%%Zoom%%%Sophie Lund Schrøder%%%University of Copenhagen%%%TBC%%%TBC%%%-%%%PhD fellow%%%no_image.png%%%-%%%sophie.schroder[at]nbi.ku.dk%%%-
 #

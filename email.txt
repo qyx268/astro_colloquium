@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Sophie_Lund_Schrøder.html]
+[slug Not_Assigned.html]
 [comments off]
-Wednesday 22 Sep 2021 @ 16:00 p.m., Zoom
-<strong>Sophie Lund Schrøder</strong>, <em>University of Copenhagen</em>; Email: sophie.schroder[at]nbi.ku.dk
+Wednesday 15 Sep 2021 @ 12:00 p.m., Zoom
+<strong>Not Assigned</strong>, <em>-</em>; Email: -
 <section>
 <h2>Abstract</h2>
 TBC

@@ -1,3 +1,4 @@
+Professor_Matthew_Bailes
 Prof_Alan_Duffy
 Prof._Darren_Croton_2
 Brenna_Mockler
@@ -7,7 +8,7 @@ Associate_Prof._Ivo_Labbe_2
 Prof_Virginia_Kilborn
 Ryan_Turner
 Susan_Wei
-Professor_Matthew_Bailes
+Not_Assigned_2
 Sophie_Lund_Schrøder
 Not_Assigned
 Grace_Olivier

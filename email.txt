@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Charlotte_Angus.html]
+[slug Dr_Charlotte_Angus.html]
 [comments off]
 Wednesday 29 Sep 2021 @ 16:00 p.m., Zoom
-<strong>Charlotte Angus</strong>, <em>University of Copenhagen</em>; Email: angus[at]nbi.ku.dk
+<strong>Dr Charlotte Angus</strong>, <em>University of Copenhagen</em>; Email: angus[at]nbi.ku.dk
 <section>
 <h2>Abstract</h2>
 TBC

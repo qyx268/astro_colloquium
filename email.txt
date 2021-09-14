@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Charlotte_Angus.html]
+[slug Sophie_Lund_Schrøder.html]
 [comments off]
-Wednesday 29 Sep 2021 @ 16:00 p.m., Zoom
-<strong>Dr Charlotte Angus</strong>, <em>University of Copenhagen</em>; Email: angus[at]nbi.ku.dk
+Wednesday 22 Sep 2021 @ 16:00 p.m., Zoom
+<strong>Sophie Lund Schrøder</strong>, <em>University of Copenhagen</em>; Email: sophie.schroder[at]nbi.ku.dk
 <section>
 <h2>Abstract</h2>
 TBC

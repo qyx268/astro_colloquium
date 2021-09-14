@@ -1,3 +1,4 @@
+Susan_Wei
 Professor_Matthew_Bailes
 Prof_Alan_Duffy
 Prof._Darren_Croton_2
@@ -7,10 +8,9 @@ Associate_Professor_Michelle_Cluver
 Associate_Prof._Ivo_Labbe_2
 Prof_Virginia_Kilborn
 Ryan_Turner
-Susan_Wei
+Not_Assigned
 Dr_Charlotte_Angus
 Sophie_Lund_Schrøder
-Not_Assigned
 Grace_Olivier
 CANCELLED_2
 Kshitij_Aggarwal

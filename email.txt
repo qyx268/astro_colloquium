@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Sophie_Lund_Schrøder.html]
+[slug Dr_Charlotte_Angus.html]
 [comments off]
-Wednesday 22 Sep 2021 @ 04:00 p.m., Zoom
-<strong>Sophie Lund Schrøder</strong>, <em>University of Copenhagen</em>; Email: sophie.schroder[at]nbi.ku.dk
+Wednesday 29 Sep 2021 @ 04:00 p.m., Zoom
+<strong>Dr Charlotte Angus</strong>, <em>University of Copenhagen</em>; Email: angus[at]nbi.ku.dk
 <section>
 <h2>Abstract</h2>
-I will present my work on advancing binary evolution models, which are used to describe and calculate rates of merging black holes and neutrons stars observed by the LIGO/Virgo collaboration. Current models include simple approximations for the binary orbit changes during all types of mass transfer and angular momentum loss. I instead work on characterising these interactions using hydrodynamic simulations, and understand how the loss of mass and angular momentum will effect the final population of merging compact objects.
+The advent of wide-field time-domain optical surveys has changed the landscape of transient astronomy. Not only have they dramatically increased the rate of transient discoveries, they have allowed us to unearth new, previously unheard of, transient classes. The wide variety of different survey strategies available play a pivotal role in how we can probe the physics behind these new and exotic transients. In this talk I will demonstrate how two different surveys have done this. The Dark Energy Survey (DES), using deep multi-band imaging, has significantly broadened the definition, and understanding of Superluminous Supernovae (SLSNe), unveiling the nature of of pre-peak bumps, while the high cadence, Young Supernova Experiment (YSE), designed to probe the earliest transient epochs, has uncovered a rapidly evolving tidal disruption event uniquely hosted by an intermediate mass black hole. These two complementary approaches allow distinct insights into the nature of some of the most extreme physical processes in the Universe, and help us to prepare for future surveys, such as LSST.
 <\section>
 [end]

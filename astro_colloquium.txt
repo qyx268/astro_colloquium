@@ -21,7 +21,7 @@
 #
 20211027%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
-20211020%%%12:00 p.m.%%%Zoom%%%Kaley Brauer%%%MIT%%%TBC%%%TBC%%%-%%%PhD Student%%%kbrauer.jpg%%%-%%%kbrauer[at]mit.edu%%%-
+20211020%%%12:00 p.m.%%%Zoom%%%Kaley Brauer%%%MIT%%%TBC%%%TBC%%%-%%%PhD Student%%%kbrauer.png%%%-%%%kbrauer[at]mit.edu%%%-
 #
 20211013%%%12:00 p.m.%%%Zoom%%%Ryan Turner%%%Swinburne University%%%TBC%%%TBC%%%-%%%PhD Student%%%rjturner.png%%%-%%%rjturner[at]swin.edu.au%%%-
 #

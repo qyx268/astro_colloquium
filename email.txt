@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Kaley_Brauer.html]
+[slug Associate_Professor_Stas_Shabala.html]
 [comments off]
-Wednesday 20 Oct 2021 @ 12:00 p.m., Zoom
-<strong>Kaley Brauer</strong>, <em>MIT</em>; Email: kbrauer[at]mit.edu
+Wednesday 03 Nov 2021 @ 12:00 p.m., Zoom
+<strong>Associate Professor Stas Shabala</strong>, <em>University of Tasmania</em>; Email: stanislav.shabala[at]utas.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

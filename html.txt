@@ -1,3 +1,4 @@
+Associate_Professor_Michelle_Cluver
 Prof_Virginia_Kilborn
 Dr_Diana_Powell(TBC)
 Associate_Prof._Christoph_Federrath(TBC)
@@ -7,8 +8,7 @@ Prof_Alan_Duffy
 Prof._Darren_Croton_2
 Brenna_Mockler
 A_Prof_Paul_Lasky
-Associate_Professor_Michelle_Cluver
-Associate_Prof._Ivo_Labbe_2
+Associate_Professor_Stas_Shabala
 Kaley_Brauer
 Ryan_Turner
 Dr_Charlotte_Angus

@@ -23,7 +23,7 @@
 #
 20211103%%%12:00 p.m.%%%Zoom%%%Associate Professor Stas Shabala%%%University of Tasmania%%%TBC%%%TBC%%%-%%%ARC Early Career Fellow%%%sshabala.jpg%%%-%%%stanislav.shabala[at]utas.edu.au%%%-
 #
-#20211027%%%12:00 p.m.%%%Zoom%%%Dr Amit Seta(TBC)%%%ANU%%%TBC%%%TBC%%%-%%%Postdoc%%%aseta.jpg%%%-%%%amit.seta[at]anu.edu.au%%%-
+20211027%%%12:00 p.m.%%%Zoom%%%Dr Amit Seta(TBC)%%%ANU%%%TBC%%%TBC%%%-%%%Postdoc%%%aseta.jpg%%%-%%%amit.seta[at]anu.edu.au%%%-
 #
 20211020%%%12:00 p.m.%%%Zoom%%%Kaley Brauer%%%MIT%%%TBC%%%TBC%%%-%%%PhD Student%%%kbrauer.png%%%-%%%kbrauer[at]mit.edu%%%-
 #

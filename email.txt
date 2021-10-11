@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof_Paul_Lasky.html]
+[slug Dr_Sree_Oh.html]
 [comments off]
-Wednesday 23 Mar 2022 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>A Prof Paul Lasky</strong>, <em>Monash University</em>; Email: Paul.Lasky[at]monash.edu
+Wednesday 10 Nov 2021 @ 12:00 p.m., Zoom
+<strong>Dr Sree Oh</strong>, <em>ANU</em>; Email: sree.oh[at]anu.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+We investigate the stellar kinematics of the bulge and disk components and ionised gas using SAMI 3D spectroscopy data. The spatially resolved rotation velocity (V) and velocity dispersion (σ) of bulge and disk components have been simultaneously estimated using the penalised pixel fitting (PPXF) method with photometrically defined weights for the two components. The two components show mass-rotation and mass-dispersion relations with similar slopes, but different intercepts suggesting that the galaxy stellar mass scales with both V and σ for both bulge and disk components of all galaxy types. Our findings suggest that the relative contributions of the two components explain, at least to first order, the complex kinematic behaviour of galaxies. Looking further ahead, we compare gas and stellar kinematics in various galaxy types (e.g. star-forming galaxies, AGNs), finding that the difference between stellar and gas velocity dispersions correlates with the contribution of AGN to the ionised gas emission. We also discuss gas and stellar velocity dispersions as proxies for the dynamical masses.
 <\section>
 [end]

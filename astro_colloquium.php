@@ -58,7 +58,7 @@ while ($i <= count($details_line_arr))
 			{
 			$yearmonarr[] = $curryearmonval;
 			}
-		$details_arr["date"][] = date('d M-y', strtotime($curryyyymmdd))  . '<br>' . $currtimeval;
+		$details_arr["date"][] = date('d M-y', strtotime($curryyyymmdd))  . $currtimeval;
 		$op_page_name = "talks/" . $all_speaker_arr[$j] . ".html";
 		$details_arr["link"][] = $op_page_name;
 		if ($slide_link != '-')

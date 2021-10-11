@@ -58,7 +58,7 @@ while ($i <= count($details_line_arr))
 			{
 			$yearmonarr[] = $curryearmonval;
 			}
-		$details_arr["date"][] = nl2br(date('d M-y', strtotime($curryyyymmdd))  . " \n " . $currtimeval);
+		$details_arr["date"][] = date('d M-y', strtotime($curryyyymmdd))  . '<br>' . $currtimeval;
 		$op_page_name = "talks/" . $all_speaker_arr[$j] . ".html";
 		$details_arr["link"][] = $op_page_name;
 		if ($slide_link != '-')
@@ -76,7 +76,7 @@ while ($i <= count($details_line_arr))
 
 	}
 
-	#echo sizeof($details_arr["curryearmonval"]), $details_line_split[3], $curryearmonval, $curryyyymmdd, nl2br('\n');
+	#echo sizeof($details_arr["curryearmonval"]), $details_line_split[3], $curryearmonval, $curryyyymmdd, '<br>';
 	#$details_arr["link"][] = $details_line_split[1];
 	#$details_arr["desc"][] = $details_line_split[2];
 	$details_arr["person"][] = $details_line_split[3];

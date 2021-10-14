@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Ryan_Turner.html]
+[slug Prof_Will_Percival.html]
 [comments off]
-Wednesday 13 Oct 2021 @ 12:00 p.m., Zoom
-<strong>Ryan Turner</strong>, <em>Swinburne University</em>; Email: rjturner[at]swin.edu.au
+Wednesday 30 Mar 2022 @ 12:00 p.m., Zoom
+<strong>Prof Will Percival</strong>, <em>University of Waterloo</em>; Email: will.percival[at]uwaterloo.ca
 <section>
 <h2>Abstract</h2>
-A key method for understanding the physics of dark energy and gravity in the Universe is to measure the growth of cosmic structure with time.  A powerful technique for tracing the growth of structure is to use the peculiar velocities of galaxies, and their correlations.  Peculiar velocities describe the velocity of a galaxy relative to the background expansion of the Universe, imposed by the gravitational influence of the local environment.  In this talk I will present new tests using cosmological simulations to show how combining information from the local peculiar velocity field and galaxy density field provide the tightest constraints on the growth rate.  I will demonstrate how velocity and galaxy survey information can be optimally combined in a correlation function approach, discuss how these tests can be applied to existing datasets, and show how future peculiar velocity surveys will provide competitive tests of gravitational growth.
+TBC
 <\section>
 [end]

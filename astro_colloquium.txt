@@ -1,5 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220330%%%12:00 p.m.%%%Zoom%%%Prof Will Percival%%%University of Waterloo%%%TBC%%%TBC%%%-%%%Director of Waterloo Centre for Astrophysics%%%iwpercival.png%%%-%%%will.percival[at]uwaterloo.ca%%%-
+20220330%%%12:00 p.m.%%%Zoom%%%Prof Will Percival%%%University of Waterloo%%%TBC%%%TBC%%%-%%%Director of Waterloo Centre for Astrophysics%%%wpercival.png%%%-%%%will.percival[at]uwaterloo.ca%%%-
 #
 20220323%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Paul Lasky%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%plasky.jpg%%%-%%%Paul.Lasky[at]monash.edu%%%-
 #

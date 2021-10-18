@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Prof_Will_Percival.html]
+[slug Kaley_Brauer.html]
 [comments off]
-Wednesday 30 Mar 2022 @ 12:00 p.m., Zoom
-<strong>Prof Will Percival</strong>, <em>University of Waterloo</em>; Email: will.percival[at]uwaterloo.ca
+Wednesday 20 Oct 2021 @ 12:00 p.m., Zoom
+<strong>Kaley Brauer</strong>, <em>MIT</em>; Email: kbrauer[at]mit.edu
 <section>
 <h2>Abstract</h2>
-TBC
+The motions and chemical composition of the stars currently present in the extended outskirts (the stellar halo) of a galaxy preserve a record of the galaxy’s formation history. While most of the stars in the center and disk of a galaxy formed in situ, many of the stars in the stellar halo originated in the many small galaxies that the central host galaxy accreted over billions of years. Currently, though, we lack ways to identify which halo stars originated in which dwarf galaxies or even reliably identify which stars were accreted. By utilizing the Caterpillar simulation suite, a suite of 32 Milky Way-mass galaxies forming, we find that stars with strong enrichment of r-process elements may have preferentially formed in the smallest dwarf galaxies that merged into the Milky Way. We also quantify how well astronomers can kinematically identify stars that accreted together from these tiny dwarf galaxies. Looking forward, we will expand on this work with several more detailed simulations of dwarf galaxy formation and of r-process material mixing into interstellar gas.
 <\section>
 [end]

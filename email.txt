@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Amit_Seta.html]
+[slug Unnikrishnan_Sureshkumar.html]
 [comments off]
-Wednesday 27 Oct 2021 @ 12:00 p.m., Zoom
-<strong>Dr Amit Seta</strong>, <em>ANU</em>; Email: amit.seta[at]anu.edu.au
+Wednesday 06 Apr 2022 @ 16:00 p.m., Zoom
+<strong>Unnikrishnan Sureshkumar</strong>, <em>Jagiellonian University</em>; Email: usureshkumar@oa.uj.edu.pl
 <section>
 <h2>Abstract</h2>
-Magnetic fields are a dynamically important component of the interstellar medium of the Milky Way. Pulsars can act as an excellent probe of the Milky Way magnetic field. The average strength of the Galactic magnetic field component parallel to the line of sight can be estimated as 1.232 RM / DM, where RM and DM are the observed rotation and dispersion measure of the pulsar. However, this assumes that the thermal electron density and magnetic field of the interstellar medium are uncorrelated. Using numerical simulations and observations, we test the validity of this assumption. Based on magnetohydrodynamical simulations of driven turbulence, we show that the correlation between the thermal electron density and the small-scale magnetic field increases with increasing Mach number of the turbulence. We find that the assumption of uncorrelated thermal electron density and magnetic fields is valid only for subsonic and transsonic flows, but for supersonic turbulence, the field strength can be severely overestimated by using 1.232 RM / DM.  We then correlate existing pulsar observations from the Australia Telescope National Facility with regions of enhanced thermal electron density and magnetic fields probed by CO data of molecular clouds, magnetic fields from the Zeeman splitting of the 21 cm line, neutral hydrogen column density, and Halpha observations. Using these observational data, we show that the thermal electron density and magnetic fields are largely uncorrelated over kpc scales. Thus, we conclude that the relation 1.232 RM / DM provides a good estimate of the magnetic field on Galactic scales, but might break down on sub-kpc scales.
+TBC
 <\section>
 [end]

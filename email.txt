@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Unnikrishnan_Sureshkumar.html]
+[slug Dr_Anitha_Ravishankar.html]
 [comments off]
-Wednesday 06 Apr 2022 @ 16:00 p.m., Zoom
-<strong>Unnikrishnan Sureshkumar</strong>, <em>Jagiellonian University</em>; Email: usureshkumar@oa.uj.edu.pl
+Wednesday 13 Apr 2022 @ 12:00 p.m., Zoom
+<strong>Dr Anitha Ravishankar</strong>, <em>University of Calgary</em>; Email: anitha.ravishanka1[at]ucalgary.ca
 <section>
 <h2>Abstract</h2>
 TBC

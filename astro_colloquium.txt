@@ -5,7 +5,7 @@
 #
 20220406%%%16:00 p.m.%%%Zoom%%%Unnikrishnan Sureshkumar%%%Jagiellonian University%%%TBC%%%TBC%%%-%%%PhD Student%%%usureshkumar.jpg%%%-%%%usureshkumar@oa.uj.edu.pl%%%-
 #
-20220330%%%12:00 p.m.%%%Zoom%%%Prof Will Percival%%%University of Waterloo%%%TBC%%%TBC%%%-%%%Director of Waterloo Centre for Astrophysics%%%wpercival.png%%%-%%%will.percival[at]uwaterloo.ca%%%-
+20220330%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220323%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Paul Lasky%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%plasky.jpg%%%-%%%Paul.Lasky[at]monash.edu%%%-
 #
@@ -25,7 +25,7 @@
 #
 20211201%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
-20211124%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20211124%%%12:00 p.m.%%%Zoom%%%Prof Will Percival%%%University of Waterloo%%%TBC%%%TBC%%%-%%%Director of Waterloo Centre for Astrophysics%%%wpercival.png%%%-%%%will.percival[at]uwaterloo.ca%%%-
 #
 20211117%%%10:00 a.m.%%%Zoom%%%Brenna Mockler%%%University of California, Santa Cruz%%%TBC%%%TBC%%%-%%%PhD Student%%%bmockler.png%%%-%%%bmockler[at]ucsc.edu%%%-
 #

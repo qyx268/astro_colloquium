@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug TBC.html]
+[slug Prof_Will_Percival.html]
 [comments off]
-Wednesday 24 Nov 2021 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>TBC</strong>, <em>TBC</em>; Email: -
+Wednesday 24 Nov 2021 @ 12:00 p.m., Zoom
+<strong>Prof Will Percival</strong>, <em>University of Waterloo</em>; Email: will.percival[at]uwaterloo.ca
 <section>
 <h2>Abstract</h2>
 TBC

@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Prof._Darren_Croton_2.html]
+[slug Prof_Will_Percival.html]
 [comments off]
-Wednesday 27 Apr 2022 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Prof. Darren Croton</strong>, <em>Swinburne University</em>; Email: dcroton[at]astro.swin.edu.au
+Wednesday 24 Nov 2021 @ 12:00 p.m., Zoom
+<strong>Prof Will Percival</strong>, <em>University of Waterloo</em>; Email: will.percival[at]uwaterloo.ca
 <section>
 <h2>Abstract</h2>
-TBC
+Observational astrophysics consists of making inferences about the Universe by comparing data and models. The credible intervals placed on model parameters are often as important as the maximum a posteriori probability values, as the intervals indicate concordance or discordance between models and with measurements from other data. Intermediate statistics (e.g. the power spectrum) are usually measured and inferences made by fitting models to these rather than the raw data, assuming that the likelihood for these statistics has multivariate Gaussian form. The covariance matrix used to calculate the likelihood is often estimated from simulations, such that it is itself a random variable. This is a standard problem in Bayesian statistics, which requires a prior to be placed on the true model parameters and covariance matrix, influencing the joint posterior distribution. I will review this problem and suggest a new approach linking frequentist and Bayesian approaches that have previously appeared in the astronomical literature.
 <\section>
 [end]

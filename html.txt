@@ -1,8 +1,8 @@
 Prof_Alan_Duffy(TBC)
 Prof._Darren_Croton_2
-Dr_Anitha_Ravishankar
-Unnikrishnan_Sureshkumar
 TBC_2
+Unnikrishnan_Sureshkumar
+TBC
 A_Prof_Paul_Lasky
 Associate_Professor_Michelle_Cluver
 Prof_Virginia_Kilborn
@@ -11,7 +11,7 @@ Associate_Prof._Ivo_Labbe_2
 Associate_Prof._Christoph_Federrath(TBC)
 Dr_Susan_Wei
 Professor_Matthew_Bailes
-TBC
+Dr_Anitha_Ravishankar
 Prof_Will_Percival
 Brenna_Mockler
 Dr_Sree_Oh

@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Brenna_Mockler.html]
+[slug Dr_Anitha_Ravishankar.html]
 [comments off]
-Wednesday 17 Nov 2021 @ 12:00 p.m., Zoom
-<strong>Brenna Mockler</strong>, <em>University of California, Santa Cruz</em>; Email: bmockler[at]ucsc.edu
+Wednesday 01 Dec 2021 @ 12:00 p.m., Zoom
+<strong>Dr Anitha Ravishankar</strong>, <em>University of Calgary</em>; Email: anitha.ravishanka1[at]ucalgary.ca
 <section>
 <h2>Abstract</h2>
-Tidal disruption events (TDEs) provide an exciting opportunity to study supermassive black holes in quiescent galaxies and the stellar populations and dynamics in galactic nuclei. They regularly produce super-Eddington mass fallback rates, and their light curves encode information about the accretion processes and the masses of the star and black hole. I developed a widely used tool for measuring black hole masses with TDE light curves, however, degeneracies between the accretion efficiency and the mass of the disrupted star make it difficult to measure these parameters from the light curve alone. I will show how we can combine information from the TDE light curve with constraints from the spectra and host galaxy to learn about the properties of stars in galactic nuclei.
+TBC
 <\section>
 [end]

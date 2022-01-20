@@ -114,7 +114,7 @@ records = np.recfromtxt(rec_file_name, delimiter ='%%%', autostrip=1, encoding='
 ### process records and create outputfiles now
 all_speakers = []
 Ntotal = len(records)
-for irecord, rec in enumerate(records[::-1]):
+for irecord, rec in enumerate(records):
     speakername = rec[3].replace(' ', '_')
     Nsamespeaker = 2
     while speakername in all_speakers:

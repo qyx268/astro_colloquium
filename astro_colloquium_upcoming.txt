@@ -24,3 +24,63 @@
 20220427%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
 #
 20220504%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
+#
+20220511%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220525%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220601%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220608%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220615%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220622%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220629%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220706%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220713%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220720%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220727%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220803%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220810%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220817%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220824%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220831%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220907%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220914%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220921%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20220928%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221005%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221012%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221019%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221026%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221102%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221109%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221116%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221123%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
+20221130%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-

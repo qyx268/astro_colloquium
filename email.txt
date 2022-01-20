@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Prof_Alan_Duffy(TBC).html]
+[slug Professor_Matthew_Bailes.html]
 [comments off]
-Wednesday 04 May 2022 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Prof Alan Duffy(TBC)</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
+Wednesday 02 Feb 2022 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>Professor Matthew Bailes</strong>, <em>Swinburne University</em>; Email: mbailes[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
 TBC

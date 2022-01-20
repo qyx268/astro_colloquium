@@ -26,8 +26,8 @@ font-family: Optima;
 
 <?php
 
-$details_line_arr = file('astro_colloquium.txt');
-$all_speaker_arr = file('html.txt');
+$details_line_arr = file('astro_colloquium_upcoming.txt');
+$all_speaker_arr = file('html_upcoming.txt');
 
 $yearmonarr = array();
 $i = 0;
@@ -127,94 +127,7 @@ $yearmonarr = array_unique($yearmonarr);
 		</tr>
 
 		-->
-		<table>
-		<tr>
-                <!--<td colspan = 3><font size=4 color =black>&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;-->
-		<td>
-		<font size=2px color='black'>Welcome to the Astro colloquium page. The seminars are normally held on <strong>Wednesdays at noon in the Level 2 <a href="https://maps.unimelb.edu.au/parkville/building/192/l105" target="_blank">Hercus Theatre </a></strong> <a href="https://www.google.com/maps/place/School+of+Physics/@-37.7967183,144.9638101,15z/data=!4m2!3m1!1s0x0:0x95244083bd9a841?sa=X&ved=2ahUKEwiPtbng8_rvAhU4zzgGHbEfAi8Q_BIwG3oECCoQBQ" target="_blank">David Caro building, School of Physics</a></strong>. Please contact the current seminar organiser <a href="mailto:yuxiang.qin@unimelb.edu.au">Yuxiang Qin</a> for further details. We might support Zoom for some talks using the following link. Please note that we are having issue using the Univeristy website service. You can still view the latest schedule here. But please use the Google Drive to download the slides. Sorry for the inconvenience.
-		</font>
-<br>
-<br>
----------------------------------------------------------------
-<br>
-<font size=2px color='black'>
-Topic: UniMelb Astro Colloquium<br>
-Time: This is a recurring meeting Meet anytime<br>
-<br>
-Join from PC, Mac, iOS or Android: <a href=https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09>https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09</a><br> 
-Password: 192<br>
-<br>
-Or join by phone:<br>
-Dial (Australia): +61 3 7018 2005 or +61 2 8015 6011<br>
-Dial (US): +1 669 900 6833 or +1 646 876 9923<br>
-Dial (Hong Kong, China): +852 5808 6088 or +852 5803 3730<br>
-Dial (UK): +44 203 481 5240 or +44 131 460 1196<br>
-Meeting ID: 881 2372 3593<br>
-International numbers available: <a href=https://unimelb.zoom.us/u/kcneQZPPcm>https://unimelb.zoom.us/u/kcneQZPPcm</a><br>
-<br>
-Or join from a H.323/SIP room system:<br>
-<br>
-Dial:88123723593@zoom.aarnet.edu.au<br>
-or SIP:88123723593@zmau.us<br>
-or 103.122.166.55<br>
-Meeting ID: 88123723593<br>
-Password: 192 <br>
-		</font>
-		</td>
-		</tr>
-		<tr><td>&nbsp;</td>
-		</tr>
-		<tr>
-		<td>
-		<font size=2px color='black'> <strong>Tentative schedule for future colloquia is <a href="upcoming.html" target="_self">here</a></strong> </font>
-		</td>
-		</tr>
-		<tr>
-		<td>
-                <select name = "query_mon_year" id="query_mon_year" style="width: 230px; height: 30px; font-size: 16px" onchange = "this.form.submit()">
-		<?php
-		if ($_POST[query_mon_year] == "" or $_POST[query_mon_year] == "None")
-		{		
-		?>
-		<option value="None">--All--</option>
-		<?php
-		}
-		else
-		{
-		?>		
-		<!--<option value="<?php echo($_POST[query_mon_year]); ?>"><?php echo (substr($_POST[query_mon_year],0,-2) . "-" . substr($_POST[query_mon_year],-2)) . "-xx"; ?></option>-->	
-		<option value="<?php echo($_POST[query_mon_year]); ?>"><?php echo $_POST[query_mon_year]; ?></option>	
-	
-		<?php
-		}
-		?>
-		<?php
-		$i=0;
-		while ($i<count($yearmonarr))
-		{
-			if ($_POST[query_mon_year] == $yearmonarr[$i])
-			{			
-		?>
-			<option value="None">--All--</option>
-		<?php
-			}
-			else
-			{
-
-			?>
-			<!--<option value="<?php echo($yearmonarr[$i]) ?>"><?php echo (substr($yearmonarr[$i],0,-2) . "-" . substr($yearmonarr[$i],-2)) . "-xx"; ?></option>-->
-			<option value="<?php echo($yearmonarr[$i]) ?>"><?php echo $yearmonarr[$i]; ?></option>
-			<?php
-			}
-			$i = $i + 1;
-		}
-		?>
-		</select>
-                </td>
-		</tr>
-
-		</table>
-
+		<font size=2px color='black'> <strong>Current and past schedule is <a href="index.html" target="_self">here</a></strong> </font>
 		<div style="border: 1px solid black">
 
                 <tr>
@@ -242,9 +155,6 @@ Password: 192 <br>
 		                        <td>
 		                        <strong><font size="3" color="black"><?php echo ($details_arr["title"][$i]); ?></font></strong>
 		                        </td>
-		                        <td>
-		                        <strong><font size="3" color="black"><?php echo ($details_arr["slide_link"][$i]); ?></font></strong>
-		                        </td>
 					<tr>
 						<td colspan = 5><hr color='black'></td>
 					</tr>
@@ -258,7 +168,7 @@ Password: 192 <br>
 						if ($curryearmonval == $_POST[query_mon_year] or $_POST[query_mon_year] == "" or $_POST[query_mon_year] == "None")
 						{
 				                ?>
-							<td width = 65>
+							<td width = 75>
 							<font size="2" color="black"><?php echo ($details_arr["date"][$i]); ?></font>
 						        </td>
 							<td>
@@ -272,19 +182,6 @@ Password: 192 <br>
 						        </td>
 							<td width = 300>
 							<font size="2" color="black"><a href="<?php echo ($details_arr['link'][$i]); ?>" target="_blank"><?php echo ($details_arr["title"][$i]); ?></a></font>
-						        </td>
-							<td width = 40 align = 'center'>
-							<?php 
-							if ($details_arr['slide_link'][$i] != '-')
-							{
-							?>
-								<font size="2" color="black"><a href="<?php echo ($details_arr['slide_link'][$i]); ?>" download><img src='images/download_logo.png' height = 40 width = 40></a></font>
-							<?php
-							}else{?>
-								<font size="2" color="black"><?php echo ($details_arr["slide_link"][$i]); ?></a></font>
-							<?php
-							}?>
-
 						        </td>
 							<tr>
 								<td colspan = 5><hr color = 'gray' size=1></td>

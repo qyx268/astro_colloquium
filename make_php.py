@@ -144,8 +144,6 @@ for irecord, rec in enumerate(records[::-1]):
         op_page_name_split[1] = '_'.join(op_page_name_split[1:])
         op_page_name = '/'.join(op_page_name_split[0:2])
     """
-    if Ntotal - irecord > Nmake:
-        continue
     opfile = open(op_page_name, 'w')    
     for lines in template:
         opline = lines

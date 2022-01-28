@@ -3,7 +3,7 @@
 #
 20220216%%%12:00 p.m.%%%Zoom%%%Associate Prof. Christoph Federrath%%%ANU%%%From Interstellar Turbulence to Star Formation%%%The formation of stars is controlled by the interplay between gravity, interstellar turbulence, magnetic fields, and stellar feedback. In this talk, I will try to explain the link between these processes and how they shape the structure of molecular clouds, paving the way towards star formation. A lot of this is based on supercomputer simulations and theoretical models, however, the design of the simulations and theoretical models is ultimately guided by observational evidence.%%%-%%%Future and Stromlo Fellow%%%cfederrath.png%%%-%%%christoph.federrath[at]anu.edu.au%%%-
 #
-20220223%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
+20220223%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220302%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
 #
@@ -28,7 +28,7 @@
 #
 20220511%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #
-20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
 20220525%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Professor Jeff Cooke%%%TBC%%%TBC%%%TBC%%%-%%%-%%%jcooke.jpg%%%-%%%jeffreycooke[at]swin.edu.au%%%-
 #

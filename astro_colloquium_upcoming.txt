@@ -1,5 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220209%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
+20220209%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%CANCELLED%%%ANITA%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220216%%%12:00 p.m.%%%Zoom%%%Associate Prof. Christoph Federrath%%%ANU%%%From Interstellar Turbulence to Star Formation%%%The formation of stars is controlled by the interplay between gravity, interstellar turbulence, magnetic fields, and stellar feedback. In this talk, I will try to explain the link between these processes and how they shape the structure of molecular clouds, paving the way towards star formation. A lot of this is based on supercomputer simulations and theoretical models, however, the design of the simulations and theoretical models is ultimately guided by observational evidence.%%%-%%%Future and Stromlo Fellow%%%cfederrath.png%%%-%%%christoph.federrath[at]anu.edu.au%%%-
 #
@@ -26,7 +26,7 @@
 #
 20220504%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
-20220511%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220511%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #
 20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

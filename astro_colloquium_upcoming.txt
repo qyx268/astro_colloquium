@@ -13,7 +13,7 @@
 #
 20220323%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Paul Lasky%%%Monash University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%plasky.jpg%%%-%%%Paul.Lasky[at]monash.edu%%%-
 #
-20220330%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220330%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Ben Wibking%%%ANU%%%TBC%%%TBC%%%-%%%-%%%bwibking.jpg%%%-%%%ben.wibking[at]anu.edu.au%%%-
 #
 20220406%%%16:00 p.m.%%%Zoom%%%Unnikrishnan Sureshkumar%%%Jagiellonian University%%%TBC%%%TBC%%%-%%%PhD Student%%%usureshkumar.jpg%%%-%%%ukp1513[at]gmail.com%%%-
 #
@@ -34,7 +34,7 @@
 #
 20220601%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220608%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220608%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Duncan A. Forbes%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dforbes.jpg%%%-%%%dforbes[at]swin.edu.au%%%-
 #
 20220615%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
@@ -48,7 +48,7 @@
 #
 20220720%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Sven Buder%%%ANU%%%TBC%%%TBC%%%-%%%-%%%sbuder.png%%%-%%%sven.buder[at]anu.edu.au%%%-
 #
-20220727%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220727%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Deanne B. Fisher%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dfisher.png%%%-%%%dfisher[at]swin.edu.au%%%-
 #
 20220803%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

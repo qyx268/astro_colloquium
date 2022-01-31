@@ -106,7 +106,7 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write('Speaker: %s from %s (%s)\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
             email_file.write('Title: %s\n'%currdic['titleshouldgohere'])
             email_file.write('Abstract: %s\n<'%currdic['abstractshouldgohere'])
-        print('mail -s "Astro Colloquium (%s, %s, %s)" "vuba137dile@post.wordpress.com" < email.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
+        print('mail -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html

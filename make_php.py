@@ -104,8 +104,8 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write('<section>%s %s %s @ %s, <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>\n'%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere']))
             email_file.write('<section><strong>%s from %s</strong> (%s)</section>\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
             email_file.write('<section><h2>%s</h2></section>\n'%currdic['titleshouldgohere'])
-            email_file.write('<section>%s</section>\n'%currdic['abstractshouldgohere'])
-            email_file.write('See more at <a href="https://qyx268.github.io/astro_colloquium/talks/%s.html">this page</a>\n'%speakername)
+            email_file.write('<section><i>%s</i></section>\n'%currdic['abstractshouldgohere'])
+            email_file.write('<small>See more on <a href="https://qyx268.github.io/astro_colloquium/talks/%s.html">this page</a></small>\n'%speakername)
 
         print('mailx -a "Content-Type: text/html" -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 

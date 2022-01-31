@@ -107,7 +107,7 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write('<section><h2></h2></section>\n')
             email_file.write('<section>%s %s %s @ %s, <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>\n'%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere']))
             email_file.write('<section><strong>%s from %s</strong> (%s)</section>\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
-            email_file.write('<section><img src="https://qyx268.github.io/astro_colloquium/images/aravishankar.jpg" width="100" height="100"></section>\n')
+            email_file.write('<section><img src="https://qyx268.github.io/astro_colloquium/images/%s" width="100" height="100"></section>\n'%currdic['speakerimageshouldgohere'])
             email_file.write('<section><h2>%s</h2></section>\n'%currdic['titleshouldgohere'])
             email_file.write('<section><i>%s</i></section>\n'%currdic['abstractshouldgohere'])
             email_file.write('<section><h2></h2></section>\n')
@@ -119,7 +119,7 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write("<section>Kind regards,</section>\n")
             email_file.write("<section>Yuxiang</section>\n")
 
-        print('mailx -a "Content-Type: text/html" -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
+        print('mutt -e "set content_type=text/html" -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html

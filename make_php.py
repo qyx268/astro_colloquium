@@ -102,7 +102,7 @@ for irecord, rec in enumerate(records[::-1]):
 
         with open('email2group.txt', 'w') as email_file:
             email_file.write("%s %s %s @ %s\n"%(currdic['dayshouldgohere'], currdic['dateshouldgohere'], currdic['yearshouldgohere'], currdic['timeshouldgohere']))
-            email_file.write("Zoom Link: https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09 (password: 192)")
+            email_file.write("Zoom Link: https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09 (password: 192)\n")
             email_file.write('Speaker: %s from %s (%s)\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
             email_file.write('Title: %s\n'%currdic['titleshouldgohere'])
             email_file.write('Abstract: %s\n<'%currdic['abstractshouldgohere'])

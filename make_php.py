@@ -99,7 +99,7 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write('<section>\n<h2>Abstract</h2>\n')
             email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
         print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['titleshouldgohere'])
-        print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['dateshouldgohere'])
+        print('mail -s "Astro Colloquium on %s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['dateshouldgohere'])
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html

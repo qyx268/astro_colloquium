@@ -106,7 +106,7 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write('<section><strong>Speaker: %s from %s (%s)</strong></section>\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
             email_file.write('<section><h2>Title: %s</h2></section>\n'%currdic['titleshouldgohere'])
             email_file.write('<section>Abstract: %s</section>\n'%currdic['abstractshouldgohere'])
-            email_file.write('See more at https://qyx268.github.io/astro_colloquium/talks/%s.html\n'%speakername)
+            email_file.write('See more at <a href="https://qyx268.github.io/astro_colloquium/talks/%s.html">this page</a>\n'%speakername)
 
         print('mailx -a "Content-Type: text/html" -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 

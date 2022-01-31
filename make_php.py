@@ -105,8 +105,8 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write("Zoom Link: https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09 (password: 192)\n")
             email_file.write('<strong>Speaker: %s from %s (%s)<\strong>\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
             email_file.write('<h2>Title: %s<\/h2>\n'%currdic['titleshouldgohere'])
-            email_file.write('Abstract: %s\n<'%currdic['abstractshouldgohere'])
-            email_file.write('See more at https://qyx268.github.io/astro_colloquium/talks/%s.html\n<'%speakername)
+            email_file.write('Abstract: %s\n'%currdic['abstractshouldgohere'])
+            email_file.write('See more at https://qyx268.github.io/astro_colloquium/talks/%s.html\n'%speakername)
 
         print('mail -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 

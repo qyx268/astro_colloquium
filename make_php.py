@@ -99,6 +99,12 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write('<section>\n<h2>Abstract</h2>\n')
             email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
         print('mail -s "%s" "vuba137dile@post.wordpress.com" < email.txt'%currdic['titleshouldgohere'])
+
+        with open('email2group.txt', 'w') as email_file:
+            email_file.write('Speaker: %s from %s (%s)\n'%(currdic['nameshouldgohere'], currdic['affliationshouldgohere'],currdic['speakeremailshouldgohere']))
+            email_file.write('Title: %s\n'%currdic['titleshouldgohere'])
+            email_file.write('Abstract: ')
+            email_file.write('%s\n<\section>\n[end]'%currdic['abstractshouldgohere'])
         print('mail -s "Astro Colloquium (%s, %s, %s)" "vuba137dile@post.wordpress.com" < email.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")

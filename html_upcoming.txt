@@ -1,6 +1,6 @@
 CANCELLED
 Associate_Prof._Christoph_Federrath
-TBC_24
+TBC_23
 Dr_Diana_Powell(TBC)
 Prof_Virginia_Kilborn
 Associate_Professor_Michelle_Cluver
@@ -14,13 +14,13 @@ Prof_Alan_Duffy(TBC)
 Dr_Susan_Wei
 Associate_Prof._Ivo_Labbe
 Associate_Professor_Jeff_Cooke
-TBC_23
+TBC_22
 Professor_Duncan_A._Forbes
 A_Prof._Julia_Bryant
-TBC_22
 TBC_21
 TBC_20
 TBC_19
+Dr_Manisha_Caleb
 Dr_Sven_Buder
 A_Prof_Deanne_B._Fisher
 TBC_18

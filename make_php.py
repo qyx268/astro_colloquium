@@ -119,7 +119,7 @@ for irecord, rec in enumerate(records[::-1]):
             email_file.write("<section>Kind regards,</section>\n")
             email_file.write("<section>Yuxiang</section>\n")
 
-        print('mutt -e "set content_type=text/html" -s "Astro Colloquium (%s, %s, %s)" "lutherqin@gmail.com" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
+        print('mutt -e "set content_type=text/html" -s "Astro Colloquium (%s, %s, %s)" "astro@physics.unimelb.edu.au" < email2group.txt'%(currdic['dayshouldgohere'],currdic['dateshouldgohere'], currdic['timeshouldgohere']))
 
 np.savetxt('html.txt', all_speakers[::-1], fmt='%s', newline='\n', delimiter=" ")
 #make html

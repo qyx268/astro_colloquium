@@ -3,9 +3,9 @@
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
 <section>Wednesday 23 Feb 2022 @ 12:00 p.m., <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Dr Stevanus K. Nugroho from Astrobiology Center, National Institutes of Natural Sciences (NINS), Japan</strong> (-)</section>
+<section><strong>Dr Stevanus K. Nugroho from Astrobiology Center, National Institutes of Natural Sciences (NINS), Japan</strong> (stevanus.nugroho[at]nao.ac.jp)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/snugroho.jpg" width="100" height="100"></section>
-<section><h2>Peeking the Atmosphere of Ultra-hot Jupiter through High-resolution Spectroscopy</h2></section>
+<section><h2>Peeking the Atmosphere of Ultra-hot Jupiters through High-resolution Spectroscopy</h2></section>
 <section><i>TBC</i></section>
 <section><h2></h2></section>
 <small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Stevanus_K._Nugroho.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>

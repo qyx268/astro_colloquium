@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Associate_Prof._Christoph_Federrath.html]
+[slug Dr_Stevanus_K._Nugroho.html]
 [comments off]
-Wednesday 16 Feb 2022 @ 12:00 p.m., Zoom
-<strong>Associate Prof. Christoph Federrath</strong>, <em>ANU</em>; Email: christoph.federrath[at]anu.edu.au
+Wednesday 23 Feb 2022 @ 12:00 p.m., Zoom
+<strong>Dr Stevanus K. Nugroho</strong>, <em>Astrobiology Center, National Institutes of Natural Sciences (NINS), Japan</em>; Email: -
 <section>
 <h2>Abstract</h2>
-The formation of stars is controlled by the interplay between gravity, interstellar turbulence, magnetic fields, and stellar feedback. In this talk, I will try to explain the link between these processes and how they shape the structure of molecular clouds, paving the way towards star formation. A lot of this is based on supercomputer simulations and theoretical models, however, the design of the simulations and theoretical models is ultimately guided by observational evidence.
+TBC
 <\section>
 [end]

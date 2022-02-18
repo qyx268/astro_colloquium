@@ -2,13 +2,13 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Wednesday 16 Feb 2022 @ 12:00 p.m., <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Associate Prof. Christoph Federrath from ANU</strong> (christoph.federrath[at]anu.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/cfederrath.png" width="100" height="100"></section>
-<section><h2>From Interstellar Turbulence to Star Formation</h2></section>
-<section><i>The formation of stars is controlled by the interplay between gravity, interstellar turbulence, magnetic fields, and stellar feedback. In this talk, I will try to explain the link between these processes and how they shape the structure of molecular clouds, paving the way towards star formation. A lot of this is based on supercomputer simulations and theoretical models, however, the design of the simulations and theoretical models is ultimately guided by observational evidence.</i></section>
+<section>Wednesday 23 Feb 2022 @ 12:00 p.m., <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section><strong>Dr Stevanus K. Nugroho from Astrobiology Center, National Institutes of Natural Sciences (NINS), Japan</strong> (-)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/snugroho.jpg" width="100" height="100"></section>
+<section><h2>Peeking the Atmosphere of Ultra-hot Jupiter through High-resolution Spectroscopy</h2></section>
+<section><i>TBC</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Associate_Prof._Christoph_Federrath.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Stevanus_K._Nugroho.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

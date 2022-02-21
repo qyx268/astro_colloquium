@@ -22,7 +22,7 @@
 #
 20220511%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #
-20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
+20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Kim-Vy Tran%%%University of New South Wales%%%TBC%%%TBC%%%-%%%Faculty%%%kvtran.jpeg%%%-%%%kim-vy.tran[at]unsw.edu.au%%%-
 #
 20220525%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Professor Jeff Cooke%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%jcooke.jpg%%%-%%%jeffreycooke[at]swin.edu.au%%%-
 #
@@ -34,7 +34,7 @@
 #
 20220622%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
 #
-20220629%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220629%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
 20220706%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

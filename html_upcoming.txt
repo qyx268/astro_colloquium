@@ -1,5 +1,5 @@
 Assistant_Prof_Yuichi_Harikane
-TBC_19
+TBC_18
 Associate_Professor_Michelle_Cluver
 A_Prof_Paul_Lasky
 Dr_Ben_Wibking
@@ -9,13 +9,13 @@ Professor_Matthew_Bailes
 Prof._Darren_Croton
 Prof_Alan_Duffy(TBC)
 Dr_Susan_Wei
-Associate_Prof._Ivo_Labbe
+Associate_Prof._Kim-Vy_Tran
 Associate_Professor_Jeff_Cooke
 Dr_Stefania_Barsanti
 Professor_Duncan_A._Forbes
 A_Prof._Julia_Bryant
 Dr_Diana_Powell(TBC)
-TBC_18
+Associate_Prof._Ivo_Labbe
 TBC_17
 Dr_Manisha_Caleb
 Dr_Sven_Buder

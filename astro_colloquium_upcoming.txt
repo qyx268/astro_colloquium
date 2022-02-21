@@ -1,7 +1,8 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 20220302%%%2:00 p.m.%%%Zoom%%%Assistant Prof Yuichi Harikane%%%Institute for Cosmic Ray Research, the University of Tokyo%%%TBC%%%TBC%%%-%%%-%%%yharikane.jpg%%%-%%%hari[at]icrr.u-tokyo.ac.jp%%%-
 #
-20220309%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220309%%%16:00 p.m.%%%Zoom%%%Unnikrishnan Sureshkumar%%%Jagiellonian University%%%TBC%%%TBC%%%-%%%PhD Student%%%usureshkumar.jpg%%%-%%%ukp1513[at]gmail.com%%%-
+#
 #
 20220316%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Professor Michelle Cluver%%%Swinburne University%%%TBC%%%TBC%%%-%%%ARC Future Fellow%%%mcluver.jpg%%%-%%%mcluver[at]swin.edu.au%%%-
 #
@@ -9,7 +10,7 @@
 #
 20220330%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Ben Wibking%%%ANU%%%TBC%%%TBC%%%-%%%-%%%bwibking.jpg%%%-%%%ben.wibking[at]anu.edu.au%%%-
 #
-20220406%%%16:00 p.m.%%%Zoom%%%Unnikrishnan Sureshkumar%%%Jagiellonian University%%%TBC%%%TBC%%%-%%%PhD Student%%%usureshkumar.jpg%%%-%%%ukp1513[at]gmail.com%%%-
+20220406%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220413%%%12:00 p.m.%%%Zoom%%%Dr Yisheng Qiu%%%Zhejiang University%%%Starduster: A multi-wavelength SED model based on radiative transfer simulations and deep learning%%%In this talk, I will introduce Starduster, a supervised deep learning model that predicts the multi-wavelength SED from galaxy geometry parameters and star formation history by emulating dust radiative transfer simulations. The model is comprised of three specifically designed neural networks, which take into account the features of dust attenuation and emission. We utilise the Skirt radiative transfer simulation to produce data for the training data of neural networks. Each neural network can be trained using ∼4000−5000 samples. Compared with the direct results of the Skirt simulation, our deep learning model produces 0.1−0.2 mag errors in FUV to FIR wavelengths. At some bands, the uncertainty is only 0.01 mag. As an application, we fit our model to the observed SEDs of IC4225 and NGC5166. Our model can reproduce the observations, and successfully predicts that both IC4225 and NGC5166 are edge-on galaxies. However, the predicted geometry parameters are different from image-fitting studies. Our analysis implies that the inconsistency is mainly due to the degeneracy in the star formation history of the stellar disk and bulge. In addition, we find that the predicted fluxes at 20μm−80μm by our SED model are correlated with bulge radius. Our SED code is public available and can be applied to both SED-fitting and SED-modelling of galaxies from semi-analytic models.%%%-%%%-%%%yqiu.png%%%-%%%yishengq[at]126.com%%%-
 #

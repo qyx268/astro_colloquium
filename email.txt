@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Stevanus_K._Nugroho.html]
+[slug Assistant_Prof_Yuichi_Harikane.html]
 [comments off]
-Wednesday 23 Feb 2022 @ 12:00 p.m., Zoom
-<strong>Dr Stevanus K. Nugroho</strong>, <em>Astrobiology Center, National Institutes of Natural Sciences (NINS), Japan</em>; Email: stevanus.nugroho[at]nao.ac.jp
+Wednesday 02 Mar 2022 @ 2:00 p.m., Zoom
+<strong>Assistant Prof Yuichi Harikane</strong>, <em>Institute for Cosmic Ray Research, the University of Tokyo</em>; Email: hari[at]icrr.u-tokyo.ac.jp
 <section>
 <h2>Abstract</h2>
-Using high-resolution spectroscopy, the atomic/molecular bands in the spectrum of an exoplanet are resolved into individual absorption lines. The variation of Doppler shifts caused by the planet’s orbital motion enables absorption lines in the exoplanet spectrum to be distinguished from telluric lines. By combining thousands of unique absorption (or emission) lines, the atomic/molecular signatures can be identified unambiguously and detected at high significance. As it is sensitive to the position of the lines, it also allows us to measure the planetary rotation and wind velocity, as well as search for atmospheric variability and inhomogeneity during the transit. In this talk, I will give a review on how we characterise the atmosphere of exoplanets using high-resolution spectroscopy including some of the latest discoveries in the atmosphere of ultra-hot Jupiters.
+Studying the statistical properties of high redshift galaxies is crucial for understanding the overall picture of galaxy formation and evolution. In this talk, I will present our latest results from ~4,000,000 galaxies at z~2-7 identified in the Subaru/Hyper Suprime-Cam survey. This large sample has allowed us to reveal 1) rest-frame UV luminosity functions in a very wide luminosity range, 2) the number density excess of bright galaxies beyond the classical Schechter function, and 3) the almost constant star formation efficiency at z~2-7, suggesting that the evolution of the cosmic star formation rate density is primarily driven by the structure formation and the cosmic expansion. Extrapolation of this result to higher redshifts suggests a sharp decline of the star formation rate density at z>10, which is consistent with our recent finding of z~13 galaxy candidates and will be directly tested with JWST. Finally, I will briefly introduce our planned JWST Cycle 1 observations.
 <\section>
 [end]

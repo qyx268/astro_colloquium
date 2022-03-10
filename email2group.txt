@@ -2,13 +2,13 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Wednesday 09 Mar 2022 @ 16:00 p.m., <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Unnikrishnan Sureshkumar from Jagiellonian University</strong> (ukp1513[at]gmail.com)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/usureshkumar.jpg" width="100" height="100"></section>
-<section><h2>Connection between galaxy properties and environment in the cosmic structure</h2></section>
-<section><i>Galaxies live in dark matter haloes and hence the galaxy properties are majorly defined by the properties of the haloes. Thus the environmental dependence of dark matter halo properties prompts a correlation between galaxy properties and the environment. In this talk, I will discuss the results from our recent works (arXiv:2102.04177 and arXiv:2201.10480) that explored how luminosities in various passbands and the associated galaxy properties are correlated with the environment. We used a set of 3.4 micro-m luminosity-selected and stellar mass-selected galaxies from the Galaxy and Mass Assembly (GAMA) survey. We made use of the galaxy two-point correlation functions and marked correlation functions to investigate the environmental correlations. I will also discuss the impact of various selection effects on the galaxy clustering measurements.</i></section>
+<section>Wednesday 16 Mar 2022 @ 12:00 p.m., <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section><strong>Associate Professor Michelle Cluver from Swinburne University</strong> (mcluver[at]swin.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/mcluver.jpg" width="100" height="100"></section>
+<section><h2>The Case for the Nearby Universe in High Definition</h2></section>
+<section><i>It’s a tale of three very different surveys: WISE (a mid-infrared imaging survey of the entire sky), 4HS (a newly accepted redshift survey of the southern hemisphere on 4MOST), and MeerHoGS (a pilot HI survey on MeerKAT). This talk will focus on the key science goals of 4HS (which I co-PI with Ned Taylor) and how this connects to my work using WISE and MeerKAT to a) create a benchmark view of the nearby universe, and b) investigate how environment influences the properties of galaxies. Finally, I will illustrate the power of immersive visualisation tools (such as VR) in this intrinsically multi-dimensional space.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Unnikrishnan_Sureshkumar.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Associate_Professor_Michelle_Cluver.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

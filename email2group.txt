@@ -2,7 +2,7 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Wednesday 23 Mar 2022 @ 12:00 p.m., <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section>Wednesday 23 Mar 2022 @ 12:00 p.m., location: David Caro building, Level 7 Video Conference Room (+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
 <section><strong>A Prof Paul Lasky from Monash University</strong> (Paul.Lasky[at]monash.edu)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/plasky.jpg" width="100" height="100"></section>
 <section><h2>Adventures in Gravitational-wave Astronomy: testing for hair, memory, and eccentricity.</h2></section>

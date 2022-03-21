@@ -28,7 +28,7 @@
 #
 20220629%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
-20220706%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Orsola De Marco%%%Macquarie University%%%TBC%%%TBC%%%-%%%Director of the Astronomy Astrophysics and Astrophotonics Research Centre%%%odemarcro.png%%%-%%%-%%%-
+20220706%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Orsola De Marco%%%Macquarie University%%%TBC%%%TBC%%%-%%%Director of the Astronomy Astrophysics and Astrophotonics Research Centre%%%odemarcro.png%%%-%%%orsola.demarco[at]mq.edu.au%%%-
 #
 20220713%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Manisha Caleb%%%The University of Sydney%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%mcaleb.jpg%%%-%%%manisha.caleb[at]sydney.edu.au%%%-
 #

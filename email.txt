@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Associate_Professor_Michelle_Cluver.html]
+[slug A_Prof_Paul_Lasky.html]
 [comments off]
-Wednesday 16 Mar 2022 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
-<strong>Associate Professor Michelle Cluver</strong>, <em>Swinburne University</em>; Email: mcluver[at]swin.edu.au
+Wednesday 23 Mar 2022 @ 12:00 p.m., David Caro building, Level 2, Hercus Theatre (+Zoom)
+<strong>A Prof Paul Lasky</strong>, <em>Monash University</em>; Email: Paul.Lasky[at]monash.edu
 <section>
 <h2>Abstract</h2>
-It’s a tale of three very different surveys: WISE (a mid-infrared imaging survey of the entire sky), 4HS (a newly accepted redshift survey of the southern hemisphere on 4MOST), and MeerHoGS (a pilot HI survey on MeerKAT). This talk will focus on the key science goals of 4HS (which I co-PI with Ned Taylor) and how this connects to my work using WISE and MeerKAT to a) create a benchmark view of the nearby universe, and b) investigate how environment influences the properties of galaxies. Finally, I will illustrate the power of immersive visualisation tools (such as VR) in this intrinsically multi-dimensional space.
+Since the first gravitational-wave detection of a binary black hole merger in 2015, the LIGO and Virgo detectors have observed gravitational waves from almost 100 merging systems. That number is expected to increase significantly over the coming years as these experiments become even more sensitive. The increased number of detections, and the improved sensitivity of these instruments, allows us to probe the ultra-strong regime of gravity, as well as the formation history of these systems. I will discuss ongoing efforts to test general relativity in the ultra strong-field regime, including tests of the no-hair theorem and searches for gravitational-wave memory -- a permanent deformation of spacetime following the passage of a gravitational wave. I will also discuss efforts to detect orbital eccentricity in these systems, which has led to potentially the first observation of a second-generation black hole merger.
 <\section>
 [end]

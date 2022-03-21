@@ -1,73 +1,73 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220330%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Ben Wibking%%%ANU%%%TBC%%%TBC%%%-%%%-%%%bwibking.jpg%%%-%%%ben.wibking[at]anu.edu.au%%%-
+20220330%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Ben Wibking%%%ANU%%%TBC%%%TBC%%%-%%%-%%%bwibking.jpg%%%-%%%ben.wibking[at]anu.edu.au%%%-
 #
-20220406%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220406%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220413%%%12:00 p.m.%%%Zoom%%%Dr Yisheng Qiu%%%Zhejiang University%%%Starduster: A multi-wavelength SED model based on radiative transfer simulations and deep learning%%%In this talk, I will introduce Starduster, a supervised deep learning model that predicts the multi-wavelength SED from galaxy geometry parameters and star formation history by emulating dust radiative transfer simulations. The model is comprised of three specifically designed neural networks, which take into account the features of dust attenuation and emission. We utilise the Skirt radiative transfer simulation to produce data for the training data of neural networks. Each neural network can be trained using ∼4000−5000 samples. Compared with the direct results of the Skirt simulation, our deep learning model produces 0.1−0.2 mag errors in FUV to FIR wavelengths. At some bands, the uncertainty is only 0.01 mag. As an application, we fit our model to the observed SEDs of IC4225 and NGC5166. Our model can reproduce the observations, and successfully predicts that both IC4225 and NGC5166 are edge-on galaxies. However, the predicted geometry parameters are different from image-fitting studies. Our analysis implies that the inconsistency is mainly due to the degeneracy in the star formation history of the stellar disk and bulge. In addition, we find that the predicted fluxes at 20μm−80μm by our SED model are correlated with bulge radius. Our SED code is public available and can be applied to both SED-fitting and SED-modelling of galaxies from semi-analytic models.%%%-%%%-%%%yqiu.png%%%-%%%yishengq[at]126.com%%%-
 #
-20220420%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
+20220420%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
 
 #
-20220427%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
+20220427%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
 #
-20220504%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Alan Duffy(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
+20220504%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Prof Alan Duffy(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
-20220511%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
+20220511%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #
-20220518%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Kim-Vy Tran%%%University of New South Wales%%%TBC%%%TBC%%%-%%%Faculty%%%kvtran.jpeg%%%-%%%kim-vy.tran[at]unsw.edu.au%%%-
+20220518%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Associate Prof. Kim-Vy Tran%%%University of New South Wales%%%TBC%%%TBC%%%-%%%Faculty%%%kvtran.jpeg%%%-%%%kim-vy.tran[at]unsw.edu.au%%%-
 #
-20220525%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Duncan A. Forbes%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dforbes.jpg%%%-%%%dforbes[at]swin.edu.au%%%-
+20220525%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Professor Duncan A. Forbes%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dforbes.jpg%%%-%%%dforbes[at]swin.edu.au%%%-
 #
-20220601%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Stefania Barsanti%%%ANU%%%TBC%%%TBC%%%-%%%ASTRO 3D Postdoctoral Fellow%%%sbarsanti.jpeg%%%-%%%Stefania.Barsanti[at]anu.edu.au%%%-
+20220601%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Stefania Barsanti%%%ANU%%%TBC%%%TBC%%%-%%%ASTRO 3D Postdoctoral Fellow%%%sbarsanti.jpeg%%%-%%%Stefania.Barsanti[at]anu.edu.au%%%-
 #
-20220608%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Professor Jeff Cooke%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%jcooke.jpg%%%-%%%jeffreycooke[at]swin.edu.au%%%-
+20220608%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Associate Professor Jeff Cooke%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%jcooke.jpg%%%-%%%jeffreycooke[at]swin.edu.au%%%-
 #
-20220615%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof. Julia Bryant%%%The University of Sydney%%%TBC%%%TBC%%%-%%%ARC Future Fellow, Director Astralis-Usyd%%%jbryant.png%%%-%%%julia.bryant[at]sydney.edu.au%%%-
+20220615%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%A Prof. Julia Bryant%%%The University of Sydney%%%TBC%%%TBC%%%-%%%ARC Future Fellow, Director Astralis-Usyd%%%jbryant.png%%%-%%%julia.bryant[at]sydney.edu.au%%%-
 #
-20220622%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
+20220622%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
 #
-20220629%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
+20220629%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
-20220706%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Professor Orsola De Marco%%%Macquarie University%%%TBC%%%TBC%%%-%%%Director of the Astronomy Astrophysics and Astrophotonics Research Centre%%%odemarcro.png%%%-%%%orsola.demarco[at]mq.edu.au%%%-
+20220706%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Professor Orsola De Marco%%%Macquarie University%%%TBC%%%TBC%%%-%%%Director of the Astronomy Astrophysics and Astrophotonics Research Centre%%%odemarcro.png%%%-%%%orsola.demarco[at]mq.edu.au%%%-
 #
-20220713%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Manisha Caleb%%%The University of Sydney%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%mcaleb.jpg%%%-%%%manisha.caleb[at]sydney.edu.au%%%-
+20220713%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Manisha Caleb%%%The University of Sydney%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%mcaleb.jpg%%%-%%%manisha.caleb[at]sydney.edu.au%%%-
 #
-20220720%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Dr Sven Buder%%%ANU%%%TBC%%%TBC%%%-%%%-%%%sbuder.png%%%-%%%sven.buder[at]anu.edu.au%%%-
+20220720%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Sven Buder%%%ANU%%%TBC%%%TBC%%%-%%%-%%%sbuder.png%%%-%%%sven.buder[at]anu.edu.au%%%-
 #
-20220727%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Deanne B. Fisher%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dfisher.png%%%-%%%dfisher[at]swin.edu.au%%%-
+20220727%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%A Prof Deanne B. Fisher%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dfisher.png%%%-%%%dfisher[at]swin.edu.au%%%-
 #
-20220803%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%A Prof Yuan-Sen Ting%%%ANU%%%TBC%%%TBC%%%-%%%DECRA Fellow, Hubble, Carnegie-Princeton and IAS Fellow%%%yting.png%%%-%%%yuan-sen.ting@anu.edu.au%%%-
+20220803%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%A Prof Yuan-Sen Ting%%%ANU%%%TBC%%%TBC%%%-%%%DECRA Fellow, Hubble, Carnegie-Princeton and IAS Fellow%%%yting.png%%%-%%%yuan-sen.ting@anu.edu.au%%%-
 #
-20220810%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%Prof Virginia Kilborn%%%Swinburne%%%TBC%%%TBC%%%-%%%Dean of Science%%%vkilborn.jpg%%%-%%%vkilborn[at]swin.edu.au%%%-
+20220810%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Prof Virginia Kilborn%%%Swinburne%%%TBC%%%TBC%%%-%%%Dean of Science%%%vkilborn.jpg%%%-%%%vkilborn[at]swin.edu.au%%%-
 #
-20220817%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220817%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220824%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220824%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220831%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220831%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220907%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220907%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220914%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220914%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220921%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220921%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220928%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220928%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221005%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221005%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221012%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221012%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221019%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221019%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221026%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221026%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221102%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221102%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221109%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221109%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221116%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221116%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221123%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221123%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221130%%%12:00 p.m.%%%David Caro building, Level 2, Hercus Theatre (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221130%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-

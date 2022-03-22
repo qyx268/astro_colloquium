@@ -1,5 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220330%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Ben Wibking%%%ANU%%%TBC%%%TBC%%%-%%%-%%%bwibking.jpg%%%-%%%ben.wibking[at]anu.edu.au%%%-
+20220330%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%Dr Ben Wibking%%%ANU%%%Galactic magnetic field predictions for the SKA era%%%The upcoming Square Kilometre Array will produce a map of magnetic fields in the Galaxy that is orders of magnitude more detailed than current observations. Simulations of Galactic magnetic fields with a resolved diffuse interstellar medium will be necessary to interpret these observations. I introduce my magnetohydrodynamic simulations of Galactic magnetic fields and discuss their predictions for the field geometry as well as their dynamical effects on the star formation rate and outflows. These results for the global structure of the magnetic field also have significant implications for models of cosmic ray-driven winds and cosmic-ray propagation in the Galaxy.%%%-%%%-%%%bwibking.jpg%%%-%%%ben.wibking[at]anu.edu.au%%%-
 #
 20220406%%%12:00 p.m.%%%David Caro building, Level 7 Video Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

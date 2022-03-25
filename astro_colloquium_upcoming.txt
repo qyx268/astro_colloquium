@@ -18,7 +18,7 @@
 #
 20220601%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASTRO-3D Science Meeting week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220608%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Dr Stefania Barsanti%%%ANU%%%TBC%%%TBC%%%-%%%ASTRO 3D Postdoctoral Fellow%%%sbarsanti.jpeg%%%-%%%Stefania.Barsanti[at]anu.edu.au%%%-
+20220608%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Dr Stefania Barsanti%%%ANU%%%Bulge formation correlates with spin-filament alignment flips%%%The study of the interplay between galaxy angular momentum and structures in the cosmic web is a powerful tool to constrain galaxy evolution scenarios. I will present the alignments of galaxies' spin axes with respect to nearby cosmic web filaments as a function of various properties of the galaxies and their constituent bulges and discs. I will exploit the SAMI Galaxy Survey to identify 3D spin axes from spatially-resolved stellar kinematics for galaxies and their kinematic bulge and disc components. The mass of the bulge is found to be the primary parameter of correlation with spin-filament alignments. I will discuss our findings in terms of possible formation pathways for the galaxies, bulges and discs.%%%-%%%ASTRO 3D Postdoctoral Fellow%%%sbarsanti.jpeg%%%-%%%Stefania.Barsanti[at]anu.edu.au%%%-
 #
 20220615%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%A Prof. Julia Bryant%%%The University of Sydney%%%TBC%%%TBC%%%-%%%ARC Future Fellow, Director Astralis-Usyd%%%jbryant.png%%%-%%%julia.bryant[at]sydney.edu.au%%%-
 #

@@ -1,5 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220413%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220413%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASTRO-3D 50:50 Celebration Day%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220420%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
 
@@ -12,7 +12,7 @@
 #
 20220518%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Associate Prof. Kim-Vy Tran%%%University of New South Wales%%%TBC%%%TBC%%%-%%%Faculty%%%kvtran.jpeg%%%-%%%kim-vy.tran[at]unsw.edu.au%%%-
 #
-20220525%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Professor Duncan A. Forbes%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dforbes.jpg%%%-%%%dforbes[at]swin.edu.au%%%-
+20220525%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Professor Duncan A. Forbes%%%Swinburne University%%%Ultra Diffuse Galaxies: Galaxies at the Extreme%%%Ultra Diffuse Galaxies (UDGs) were first identified using the Dragonfly Telescope Array in 2015. Their extreme properties (of low surface brightness, large size, and in some cases rich globular cluster systems) continue to present challenges for standard cosmological simulations. UDGs may represent galaxies with a range of properties: from puffed-up dwarfs to failed galaxies, from those with overly massive dark matter halos to some that are dark matter free. In my talk I will present new observations, and contrast these with the latest simulations, summarising our current understanding of this extreme class of galaxy.%%%-%%%-%%%dforbes.jpg%%%-%%%dforbes[at]swin.edu.au%%%-
 #
 20220601%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASTRO-3D Science Meeting week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

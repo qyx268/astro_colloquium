@@ -1,6 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220413%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASTRO-3D 50:50 Celebration Day%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
-#
 20220420%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
 
 #

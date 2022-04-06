@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 06 Apr 2022 @ 12:00 p.m.</section>
-<section>Venue: Zoom, <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Dr Yisheng Qiu from Zhejiang University</strong> (yishengq[at]126.com)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/yqiu.png" width="100" height="100"></section>
-<section><h2>Starduster: A multi-wavelength SED model based on radiative transfer simulations and deep learning</h2></section>
-<section><i>In this talk, I will introduce Starduster, a supervised deep learning model that predicts the multi-wavelength SED from galaxy geometry parameters and star formation history by emulating dust radiative transfer simulations. The model is comprised of three specifically designed neural networks, which take into account the features of dust attenuation and emission. We utilise the Skirt radiative transfer simulation to produce data for the training data of neural networks. Each neural network can be trained using ∼4000−5000 samples. Compared with the direct results of the Skirt simulation, our deep learning model produces 0.1−0.2 mag errors in FUV to FIR wavelengths. At some bands, the uncertainty is only 0.01 mag. As an application, we fit our model to the observed SEDs of IC4225 and NGC5166. Our model can reproduce the observations, and successfully predicts that both IC4225 and NGC5166 are edge-on galaxies. However, the predicted geometry parameters are different from image-fitting studies. Our analysis implies that the inconsistency is mainly due to the degeneracy in the star formation history of the stellar disk and bulge. In addition, we find that the predicted fluxes at 20μm−80μm by our SED model are correlated with bulge radius. Our SED code is public available and can be applied to both SED-fitting and SED-modelling of galaxies from semi-analytic models.</i></section>
+<section>Time: Wednesday 13 Apr 2022 @ 12:00 p.m.</section>
+<section>Venue: CANCELLED, <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section><strong>CANCELLED from ASTRO-3D 50:50 Celebration Day</strong> (-)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/no_image.png" width="100" height="100"></section>
+<section><h2>-</h2></section>
+<section><i>-</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Yisheng_Qiu.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/CANCELLED_4.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

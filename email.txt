@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Yisheng_Qiu.html]
+[slug CANCELLED_4.html]
 [comments off]
-Wednesday 06 Apr 2022 @ 12:00 p.m., Zoom
-<strong>Dr Yisheng Qiu</strong>, <em>Zhejiang University</em>; Email: yishengq[at]126.com
+Wednesday 13 Apr 2022 @ 12:00 p.m., CANCELLED
+<strong>CANCELLED</strong>, <em>ASTRO-3D 50:50 Celebration Day</em>; Email: -
 <section>
 <h2>Abstract</h2>
-In this talk, I will introduce Starduster, a supervised deep learning model that predicts the multi-wavelength SED from galaxy geometry parameters and star formation history by emulating dust radiative transfer simulations. The model is comprised of three specifically designed neural networks, which take into account the features of dust attenuation and emission. We utilise the Skirt radiative transfer simulation to produce data for the training data of neural networks. Each neural network can be trained using ∼4000−5000 samples. Compared with the direct results of the Skirt simulation, our deep learning model produces 0.1−0.2 mag errors in FUV to FIR wavelengths. At some bands, the uncertainty is only 0.01 mag. As an application, we fit our model to the observed SEDs of IC4225 and NGC5166. Our model can reproduce the observations, and successfully predicts that both IC4225 and NGC5166 are edge-on galaxies. However, the predicted geometry parameters are different from image-fitting studies. Our analysis implies that the inconsistency is mainly due to the degeneracy in the star formation history of the stellar disk and bulge. In addition, we find that the predicted fluxes at 20μm−80μm by our SED model are correlated with bulge radius. Our SED code is public available and can be applied to both SED-fitting and SED-modelling of galaxies from semi-analytic models.
+-
 <\section>
 [end]

@@ -1,7 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220420%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%Exploring Relativistic Gravity in the 2020s and Beyond%%%TBC%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
-
-#
 20220427%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
 #
 20220504%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Prof Alan Duffy(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-

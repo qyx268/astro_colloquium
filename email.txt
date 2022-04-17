@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug CANCELLED_4.html]
+[slug Professor_Matthew_Bailes.html]
 [comments off]
-Wednesday 13 Apr 2022 @ 12:00 p.m., CANCELLED
-<strong>CANCELLED</strong>, <em>ASTRO-3D 50:50 Celebration Day</em>; Email: -
+Wednesday 20 Apr 2022 @ 12:00 p.m., David Caro building, Level 7 Conference Room (+Zoom)
+<strong>Professor Matthew Bailes</strong>, <em>Swinburne University</em>; Email: mbailes[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
--
+TBC
 <\section>
 [end]

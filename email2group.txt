@@ -6,8 +6,8 @@
 <section>Venue: David Caro building, Level 7 Conference Room (+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
 <section><strong>Professor Matthew Bailes from Swinburne University</strong> (mbailes[at]swin.edu.au)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/mbailes.png" width="100" height="100"></section>
-<section><h2>Exploring Relativistic Gravity in the 2020s and Beyond</h2></section>
-<section><i>TBC</i></section>
+<section><h2>The Fast Radio Burst Enigma</h2></section>
+<section><i>Although Fast Radio Bursts (FRBs) were discovered in 2007, the last couple of years has seen an explosion of recorded events and breakthroughs in the field. In this talk I will tell the story of FRBs and their impact on potential source models and cosmology.</i></section>
 <section><h2></h2></section>
 <small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Professor_Matthew_Bailes.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>

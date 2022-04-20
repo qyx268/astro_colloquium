@@ -1,7 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220427%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
-#
-20220504%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Prof Alan Duffy(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
+20220504%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Prof Alan Duffy%%%Swinburne University%%%Dark Matters at Swinburne%%%For over half a century the nature of dark matter has remained a mystery despite enormous advances in astronomical observations, numerical simulations, and direct detection efforts. I will convey some of the ongoing research efforts at Swinburne as we seek a holistic approach to constraining the potential dark matter candidate, from microlensing by theorised nano-planet mass blackholes to ultra-light axion candidates, and particles of masses in between all in partnership with colleagues across Australia and beyond. While conveying the science of these experiments I will also try to share ways in which I try to explain it to the public as ideas for others to explore using in their own science communication efforts.%%%-%%%Director of the Space Technology and Industry Institute%%%aduffy.jpg%%%-%%%aduffy[at]swinburne.edu.au%%%-
 #
 20220511%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #

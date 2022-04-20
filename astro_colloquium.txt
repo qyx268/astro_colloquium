@@ -1,4 +1,6 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
+20220427%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Prof. Darren Croton%%%Swinburne University%%%TBC%%%TBC%%%-%%%Professor%%%dcroton.jpg%%%-%%%dcroton[at]astro.swin.edu.au%%%-
+#
 20220420%%%12:00 p.m.%%%David Caro building, Level 7 Conference Room (+Zoom)%%%Professor Matthew Bailes%%%Swinburne University%%%The Fast Radio Burst Enigma%%%Although Fast Radio Bursts (FRBs) were discovered in 2007, the last couple of years has seen an explosion of recorded events and breakthroughs in the field. In this talk I will tell the story of FRBs and their impact on potential source models and cosmology.%%%-%%%Director ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav)%%%mbailes.png%%%-%%%mbailes[at]swin.edu.au%%%-
 #
 20220413%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASTRO-3D 50:50 Celebration Day%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-

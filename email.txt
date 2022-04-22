@@ -6,6 +6,6 @@ Wednesday 27 Apr 2022 @ 12:00 p.m., David Caro building, Level 7 Conference Room
 <strong>Prof. Darren Croton</strong>, <em>Swinburne University</em>; Email: dcroton[at]astro.swin.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+Much progress has been made in recent years in our understanding of the co-evolution of galaxies and supermassive black holes, and their connection to the underlying large-scale dark matter structure. In this talk I will discuss simulation and modelling techniques that bridge theories of galaxy and black hole formation with the properties of observed galaxy populations. In addition, I will discuss a number of open questions important for extra-galactic astronomy and cosmology, and explain how future large-scale surveys and galaxy formation models may jointly address them.
 <\section>
 [end]

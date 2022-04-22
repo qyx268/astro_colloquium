@@ -6,8 +6,8 @@
 <section>Venue: David Caro building, Level 7 Conference Room (+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
 <section><strong>Prof. Darren Croton from Swinburne University</strong> (dcroton[at]astro.swin.edu.au)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/dcroton.jpg" width="100" height="100"></section>
-<section><h2>TBC</h2></section>
-<section><i>TBC</i></section>
+<section><h2>How to model the Universe in N easy steps (N>>1)</h2></section>
+<section><i>Much progress has been made in recent years in our understanding of the co-evolution of galaxies and supermassive black holes, and their connection to the underlying large-scale dark matter structure. In this talk I will discuss simulation and modelling techniques that bridge theories of galaxy and black hole formation with the properties of observed galaxy populations. In addition, I will discuss a number of open questions important for extra-galactic astronomy and cosmology, and explain how future large-scale surveys and galaxy formation models may jointly address them.</i></section>
 <section><h2></h2></section>
 <small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Prof._Darren_Croton_2.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>

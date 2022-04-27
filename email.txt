@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Prof._Darren_Croton_2.html]
+[slug Prof_Alan_Duffy.html]
 [comments off]
-Wednesday 27 Apr 2022 @ 12:00 p.m., David Caro building, Level 7 Conference Room (+Zoom)
-<strong>Prof. Darren Croton</strong>, <em>Swinburne University</em>; Email: dcroton[at]astro.swin.edu.au
+Wednesday 04 May 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
 <section>
 <h2>Abstract</h2>
-Much progress has been made in recent years in our understanding of the co-evolution of galaxies and supermassive black holes, and their connection to the underlying large-scale dark matter structure. In this talk I will discuss simulation and modelling techniques that bridge theories of galaxy and black hole formation with the properties of observed galaxy populations. In addition, I will discuss a number of open questions important for extra-galactic astronomy and cosmology, and explain how future large-scale surveys and galaxy formation models may jointly address them.
+For over half a century the nature of dark matter has remained a mystery despite enormous advances in astronomical observations, numerical simulations, and direct detection efforts. I will convey some of the ongoing research efforts at Swinburne as we seek a holistic approach to constraining the potential dark matter candidate, from microlensing by theorised nano-planet mass blackholes to ultra-light axion candidates, and particles of masses in between all in partnership with colleagues across Australia and beyond. While conveying the science of these experiments I will also try to share ways in which I try to explain it to the public as ideas for others to explore using in their own science communication efforts.
 <\section>
 [end]

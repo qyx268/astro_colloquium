@@ -131,7 +131,7 @@ $yearmonarr = array_unique($yearmonarr);
 		<tr>
                 <!--<td colspan = 3><font size=4 color =black>&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;-->
 		<td>
-		<font size=2px color='black'>Welcome to the Astro colloquium page. The seminars are normally held on <strong>Wednesdays at noon in the Level 7 Video Conference Room, <a href="https://www.google.com/maps/place/School+of+Physics/@-37.7967183,144.9638101,15z/data=!4m2!3m1!1s0x0:0x95244083bd9a841?sa=X&ved=2ahUKEwiPtbng8_rvAhU4zzgGHbEfAi8Q_BIwG3oECCoQBQ" target="_blank">David Caro building, School of Physics</a></strong>. Please contact the current seminar organiser <a href="mailto:yuxiang.qin@unimelb.edu.au">Yuxiang Qin</a> for further details. We might support Zoom for some talks using the following link. 
+		<font size=2px color='black'>Welcome to the Astro colloquium page. The seminars are normally held on <strong>Wednesdays at noon in <a href="https://maps.unimelb.edu.au/parkville/building/192/laby_theatre" target="_blank">Laby Theatre</a>, <a href="https://www.google.com/maps/place/School+of+Physics/@-37.7967183,144.9638101,15z/data=!4m2!3m1!1s0x0:0x95244083bd9a841?sa=X&ved=2ahUKEwiPtbng8_rvAhU4zzgGHbEfAi8Q_BIwG3oECCoQBQ" target="_blank">David Caro building, School of Physics</a></strong>. Please contact the current seminar organiser <a href="mailto:yuxiang.qin@unimelb.edu.au">Yuxiang Qin</a> for further details. We might support Zoom for some talks using the following link. 
 		</font>
 <br>
 <br>

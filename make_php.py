@@ -52,7 +52,6 @@ for irecord, rec in enumerate(records[::-1]):
     if rec[6] == 'TBA': rec[6] = 'TBA<br><br><br><br><br><br><br><br>'#; print rec
     if rec[5] == 'TBA': rec[5] = 'Title: TBA'
     currdic = {'dateshouldgohere': rec[0], 'timeshouldgohere': rec[1], 'locationshouldgohere': rec[2], 'nameshouldgohere': rec[3], 'affliationshouldgohere': rec[4], 'titleshouldgohere': rec[5], 'abstractshouldgohere': rec[6], 'extrashouldgohere': rec[7], 'positionshouldgohere': rec[8], 'yearshouldgohere': yearshouldgohere, 'dateshouldgohere':dateshouldgohere, 'dayshouldgohere':dayshouldgohere, 'speakerimageshouldgohere':rec[9], 'talkimageshouldgohere': rec[10], 'speakeremailshouldgohere': rec[11], 'slidelinkshouldgohere': rec[12]}
-    print(currdic['slidelinkshouldgohere'])
     """
     op_page_name_split = op_page_name.split('/')
     if len( op_page_name_split ) > 2:
@@ -61,6 +60,7 @@ for irecord, rec in enumerate(records[::-1]):
     """
     if Ntotal - irecord > Nmake:
         continue
+    print(currdic['slidelinkshouldgohere'])
     opfile = open(op_page_name, 'w')    
     for lines in template:
         opline = lines

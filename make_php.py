@@ -78,6 +78,7 @@ for irecord, rec in enumerate(records[::-1]):
                     else:
                         opline = opline.replace(keyname, '../images/%s' %(str(currdic[keyname])))
                 elif keyname == 'slidelinkshouldgohere':
+                    print(currdic[keyname])
                     if currdic[keyname] == '-':
                         opline = ''
                     else:

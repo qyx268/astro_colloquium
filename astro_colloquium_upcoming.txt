@@ -1,7 +1,7 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 20220511%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Susan Wei%%%UniMelbourne%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%swei.png%%%-%%%susan.wei[at]unimelb.edu.au%%%-
 #
-20220518%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220518%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
 #
 20220525%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Professor Duncan A. Forbes%%%Swinburne University%%%Ultra Diffuse Galaxies: Galaxies at the Extreme%%%Ultra Diffuse Galaxies (UDGs) were first identified using the Dragonfly Telescope Array in 2015. Their extreme properties (of low surface brightness, large size, and in some cases rich globular cluster systems) continue to present challenges for standard cosmological simulations. UDGs may represent galaxies with a range of properties: from puffed-up dwarfs to failed galaxies, from those with overly massive dark matter halos to some that are dark matter free. In my talk I will present new observations, and contrast these with the latest simulations, summarising our current understanding of this extreme class of galaxy.%%%-%%%-%%%dforbes.jpg%%%-%%%dforbes[at]swin.edu.au%%%-
 #
@@ -13,7 +13,7 @@
 #
 20220622%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
 #
-20220629%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Associate Prof. Ivo Labbe%%%Swinburne University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%ilabbe.png%%%-%%%ilabbe[at]swin.edu.au%%%-
+20220629%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASA ASM week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220706%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Professor Chris Matzner%%%University of Toronto%%%TBC%%%TBC%%%-%%%-%%%cmatzner.png%%%-%%%matzner[at]astro.utoronto.ca%%%-
 #

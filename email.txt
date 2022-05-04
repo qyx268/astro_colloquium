@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Prof_Alan_Duffy.html]
+[slug Dr_Susan_Wei.html]
 [comments off]
-Wednesday 04 May 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>Prof Alan Duffy</strong>, <em>Swinburne University</em>; Email: aduffy[at]swinburne.edu.au
+Wednesday 11 May 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Dr Susan Wei</strong>, <em>UniMelbourne</em>; Email: susan.wei[at]unimelb.edu.au
 <section>
 <h2>Abstract</h2>
-For over half a century the nature of dark matter has remained a mystery despite enormous advances in astronomical observations, numerical simulations, and direct detection efforts. I will convey some of the ongoing research efforts at Swinburne as we seek a holistic approach to constraining the potential dark matter candidate, from microlensing by theorised nano-planet mass blackholes to ultra-light axion candidates, and particles of masses in between all in partnership with colleagues across Australia and beyond. While conveying the science of these experiments I will also try to share ways in which I try to explain it to the public as ideas for others to explore using in their own science communication efforts.
+In contrast to regular models, singular statistical models lack identifiability and a positive definite Fisher information matrix. Singular models are in fact ubiquitous in modern machine learning, with neural networks serving as a prominent example. Coinciding with the resurgence of interest in Bayesian neural networks, this work sets out to characterize the approximation gap in variational inference for the posterior distribution over neural network weights. The result rests on a central insight from singular learning theory according to which the posterior distribution over the parameters of a singular model, following an algebraic-geometrical transformation known as a desingularization map, is asymptotically a mixture of so-called standard forms. We proceed to demonstrate that a generalized gamma mean-field family, following desingularization, can recover the leading order term of the model evidence. The theoretical results are accompanied by a set of experiments in which we employ affine coupling layers to learn the unknown desingularization map.
 <\section>
 [end]

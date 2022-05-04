@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 04 May 2022 @ 12:00 p.m.</section>
+<section>Time: Wednesday 11 May 2022 @ 12:00 p.m.</section>
 <section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Prof Alan Duffy from Swinburne University</strong> (aduffy[at]swinburne.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/aduffy.jpg" width="100" height="100"></section>
-<section><h2>Dark Matters at Swinburne</h2></section>
-<section><i>For over half a century the nature of dark matter has remained a mystery despite enormous advances in astronomical observations, numerical simulations, and direct detection efforts. I will convey some of the ongoing research efforts at Swinburne as we seek a holistic approach to constraining the potential dark matter candidate, from microlensing by theorised nano-planet mass blackholes to ultra-light axion candidates, and particles of masses in between all in partnership with colleagues across Australia and beyond. While conveying the science of these experiments I will also try to share ways in which I try to explain it to the public as ideas for others to explore using in their own science communication efforts.</i></section>
+<section><strong>Dr Susan Wei from UniMelbourne</strong> (susan.wei[at]unimelb.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/swei.png" width="100" height="100"></section>
+<section><h2>Variational Inference for Bayesian Neural Networks via Resolution of Singularities</h2></section>
+<section><i>In contrast to regular models, singular statistical models lack identifiability and a positive definite Fisher information matrix. Singular models are in fact ubiquitous in modern machine learning, with neural networks serving as a prominent example. Coinciding with the resurgence of interest in Bayesian neural networks, this work sets out to characterize the approximation gap in variational inference for the posterior distribution over neural network weights. The result rests on a central insight from singular learning theory according to which the posterior distribution over the parameters of a singular model, following an algebraic-geometrical transformation known as a desingularization map, is asymptotically a mixture of so-called standard forms. We proceed to demonstrate that a generalized gamma mean-field family, following desingularization, can recover the leading order term of the model evidence. The theoretical results are accompanied by a set of experiments in which we employ affine coupling layers to learn the unknown desingularization map.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Prof_Alan_Duffy.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Susan_Wei.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

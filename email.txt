@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof_Paul_Lasky.html]
+[slug Professor_Duncan_A._Forbes.html]
 [comments off]
-Wednesday 23 Mar 2022 @ 12:00 p.m., David Caro building, Level 7 Conference Room (+Zoom)
-<strong>A Prof Paul Lasky</strong>, <em>Monash University</em>; Email: Paul.Lasky[at]monash.edu
+Wednesday 11 May 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Professor Duncan A. Forbes</strong>, <em>Swinburne University</em>; Email: dforbes[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-Since the first gravitational-wave detection of a binary black hole merger in 2015, the LIGO and Virgo detectors have observed gravitational waves from almost 100 merging systems. That number is expected to increase significantly over the coming years as these experiments become even more sensitive. The increased number of detections, and the improved sensitivity of these instruments, allows us to probe the ultra-strong regime of gravity, as well as the formation history of these systems. I will discuss ongoing efforts to test general relativity in the ultra strong-field regime, including tests of the no-hair theorem and searches for gravitational-wave memory -- a permanent deformation of spacetime following the passage of a gravitational wave. I will also discuss efforts to detect orbital eccentricity in these systems, which has led to potentially the first observation of a second-generation black hole merger.
+Ultra Diffuse Galaxies (UDGs) were first identified using the Dragonfly Telescope Array in 2015. Their extreme properties (of low surface brightness, large size, and in some cases rich globular cluster systems) continue to present challenges for standard cosmological simulations. UDGs may represent galaxies with a range of properties: from puffed-up dwarfs to failed galaxies, from those with overly massive dark matter halos to some that are dark matter free. In my talk I will present new observations, and contrast these with the latest simulations, summarising our current understanding of this extreme class of galaxy.
 <\section>
 [end]

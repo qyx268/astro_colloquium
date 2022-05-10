@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 23 Mar 2022 @ 12:00 p.m.</section>
-<section>Venue: David Caro building, Level 7 Conference Room (+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>A Prof Paul Lasky from Monash University</strong> (Paul.Lasky[at]monash.edu)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/plasky.jpg" width="100" height="100"></section>
-<section><h2>Adventures in Gravitational-wave Astronomy: testing for hair, memory, and eccentricity.</h2></section>
-<section><i>Since the first gravitational-wave detection of a binary black hole merger in 2015, the LIGO and Virgo detectors have observed gravitational waves from almost 100 merging systems. That number is expected to increase significantly over the coming years as these experiments become even more sensitive. The increased number of detections, and the improved sensitivity of these instruments, allows us to probe the ultra-strong regime of gravity, as well as the formation history of these systems. I will discuss ongoing efforts to test general relativity in the ultra strong-field regime, including tests of the no-hair theorem and searches for gravitational-wave memory -- a permanent deformation of spacetime following the passage of a gravitational wave. I will also discuss efforts to detect orbital eccentricity in these systems, which has led to potentially the first observation of a second-generation black hole merger.</i></section>
+<section>Time: Wednesday 11 May 2022 @ 12:00 p.m.</section>
+<section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section><strong>Professor Duncan A. Forbes from Swinburne University</strong> (dforbes[at]swin.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/dforbes.jpg" width="100" height="100"></section>
+<section><h2>Ultra Diffuse Galaxies: Galaxies at the Extreme</h2></section>
+<section><i>Ultra Diffuse Galaxies (UDGs) were first identified using the Dragonfly Telescope Array in 2015. Their extreme properties (of low surface brightness, large size, and in some cases rich globular cluster systems) continue to present challenges for standard cosmological simulations. UDGs may represent galaxies with a range of properties: from puffed-up dwarfs to failed galaxies, from those with overly massive dark matter halos to some that are dark matter free. In my talk I will present new observations, and contrast these with the latest simulations, summarising our current understanding of this extreme class of galaxy.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/A_Prof_Paul_Lasky.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Professor_Duncan_A._Forbes.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

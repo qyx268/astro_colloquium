@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 11 May 2022 @ 12:00 p.m.</section>
+<section>Time: Wednesday 18 May 2022 @ 12:00 p.m.</section>
 <section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Professor Duncan A. Forbes from Swinburne University</strong> (dforbes[at]swin.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/dforbes.jpg" width="100" height="100"></section>
-<section><h2>Ultra Diffuse Galaxies: Galaxies at the Extreme</h2></section>
-<section><i>Ultra Diffuse Galaxies (UDGs) were first identified using the Dragonfly Telescope Array in 2015. Their extreme properties (of low surface brightness, large size, and in some cases rich globular cluster systems) continue to present challenges for standard cosmological simulations. UDGs may represent galaxies with a range of properties: from puffed-up dwarfs to failed galaxies, from those with overly massive dark matter halos to some that are dark matter free. In my talk I will present new observations, and contrast these with the latest simulations, summarising our current understanding of this extreme class of galaxy.</i></section>
+<section><strong>Associate Prof. Ivo Labbe from Swinburne University</strong> (ilabbe[at]swin.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/ilabbe.png" width="100" height="100"></section>
+<section><h2>James Webb Space Telescope observations of the first galaxies</h2></section>
+<section><i>The formation of the first galaxies is one of the most exciting and elusive frontiers in astronomy. In only a few months this field is about to be revolutionized when the James Webb Space Telescope starts operations. JWST will deliver ultra-sensitive observations at previously inaccessible infrared wavelengths. Among the many exciting programs in Webb's first year is the Treasury program UNCOVER which will take ultradeep NIRCam imaging and NIRSpec spectroscopy boosted by the gravitational lensing cluster Frontier Field Abell 2744. I will look ahead and discuss the science goals of this public program, such as finding First Light galaxies during the Dark Ages at z>10 and studying the ultra-low luminosity galaxies at later times that were responsible for reionization. The program will support a broad array of additional science including stellar mass complete studies to z=10, the role of dust obscuration at high redshift, and the various pathways of quenching star formation.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Professor_Duncan_A._Forbes.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Associate_Prof._Ivo_Labbe_2.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

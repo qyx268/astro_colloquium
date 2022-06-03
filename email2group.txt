@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 08 Jun 2022 @ 12:00 p.m.</section>
-<section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Dr Stefania Barsanti from ANU</strong> (Stefania.Barsanti[at]anu.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/sbarsanti.jpeg" width="100" height="100"></section>
-<section><h2>Bulge formation correlates with spin-filament alignment flips</h2></section>
-<section><i>The study of the interplay between galaxy angular momentum and structures in the cosmic web is a powerful tool to constrain galaxy evolution scenarios. I will present the alignments of galaxies' spin axes with respect to nearby cosmic web filaments as a function of various properties of the galaxies and their constituent bulges and discs. I will exploit the SAMI Galaxy Survey to identify 3D spin axes from spatially-resolved stellar kinematics for galaxies and their kinematic bulge and disc components. The mass of the bulge is found to be the primary parameter of correlation with spin-filament alignments. I will discuss our findings in terms of possible formation pathways for the galaxies, bulges and discs.</i></section>
+<section>Time: Wednesday 01 Jun 2022 @ 12:00 p.m.</section>
+<section>Venue: CANCELLED, <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section><strong>CANCELLED from ASTRO-3D Science Meeting week</strong> (-)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/no_image.png" width="100" height="100"></section>
+<section><h2>-</h2></section>
+<section><i>-</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Stefania_Barsanti.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/CANCELLED_5.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

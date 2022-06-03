@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Stefania_Barsanti.html]
+[slug CANCELLED_5.html]
 [comments off]
-Wednesday 08 Jun 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>Dr Stefania Barsanti</strong>, <em>ANU</em>; Email: Stefania.Barsanti[at]anu.edu.au
+Wednesday 01 Jun 2022 @ 12:00 p.m., CANCELLED
+<strong>CANCELLED</strong>, <em>ASTRO-3D Science Meeting week</em>; Email: -
 <section>
 <h2>Abstract</h2>
-The study of the interplay between galaxy angular momentum and structures in the cosmic web is a powerful tool to constrain galaxy evolution scenarios. I will present the alignments of galaxies' spin axes with respect to nearby cosmic web filaments as a function of various properties of the galaxies and their constituent bulges and discs. I will exploit the SAMI Galaxy Survey to identify 3D spin axes from spatially-resolved stellar kinematics for galaxies and their kinematic bulge and disc components. The mass of the bulge is found to be the primary parameter of correlation with spin-filament alignments. I will discuss our findings in terms of possible formation pathways for the galaxies, bulges and discs.
+-
 <\section>
 [end]

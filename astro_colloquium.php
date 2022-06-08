@@ -34,13 +34,13 @@ $i = 0;
 $j = 0;
 while ($i <= count($details_line_arr)) 
 {
-	if (strlen(trim($details_line_arr[$i])) <= 1){$i = $i + 1;continue;}
+	if (strlen(trim((string) $details_line_arr[$i])) <= 1){$i = $i + 1;continue;}
 	/*if (strpos($details_line_arr[$i],'#') !== FALSE)
 	{
 		$i = $i + 1; continue;
 	}*/
 	$details_line_split = preg_split('/%%%/', $details_line_arr[$i], -1, PREG_SPLIT_NO_EMPTY);
-	$slide_link = trim($details_line_split[sizeof($details_line_split)-1]);
+	$slide_link = trim((string) $details_line_split[sizeof($details_line_split)-1]);
 
 	if ($details_line_split[0] != '#Date')
 	{
@@ -81,8 +81,8 @@ while ($i <= count($details_line_arr))
 	#$details_arr["desc"][] = $details_line_split[2];
 	$details_arr["person"][] = $details_line_split[3];
 	$details_arr["affiliation"][] = $details_line_split[4];
-	$details_arr["title"][] = trim($details_line_split[5]);
-	$details_arr["profilephoto"][] = 'images/' . trim($details_line_split[9]);
+	$details_arr["title"][] = trim((string) $details_line_split[5]);
+	$details_arr["profilephoto"][] = 'images/' . trim((string) $details_line_split[9]);
 	$details_arr["slide_link"][] = $slide_link;
 	$i = $i + 1;
 }

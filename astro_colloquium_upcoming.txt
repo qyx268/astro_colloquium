@@ -1,6 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220615%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%A Prof. Julia Bryant%%%The University of Sydney%%%TBC%%%TBC%%%-%%%ARC Future Fellow, Director Astralis-Usyd%%%jbryant.png%%%-%%%julia.bryant[at]sydney.edu.au%%%-
-#
 20220622%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
 #
 20220629%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASA ASM week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-

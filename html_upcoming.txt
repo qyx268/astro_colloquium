@@ -8,13 +8,13 @@ A_Prof_Yuan-Sen_Ting
 Professor_Orsola_De_Marco
 A_Prof_Deanne_B._Fisher
 Prof_Virginia_Kilborn(TBC)
-TBC_10
 TBC_9
+TBC_8
 Madeline_Howell
 Associate_Prof._Kim-Vy_Tran
-TBC_8
-Dr_Henry_Zovaro
 TBC_7
+Dr_Henry_Zovaro
+Dr_Kelly_Gourdji
 Dr_Tania_Barone
 TBC_6
 TBC_5

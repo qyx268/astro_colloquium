@@ -1,8 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220622%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Diana Powell(TBC)%%%Harvard%%%TBC%%%TBC%%%-%%%NASA Hubble Fellowship, Sagan Fellow%%%dpowell.jpeg%%%-%%%dkpowell[at]ucsc.edu%%%-
-#
-20220629%%%12:00 p.m.%%%CANCELLED%%%CANCELLED%%%ASA ASM week%%%-%%%-%%%-%%%-%%%no_image.png%%%-%%%-%%%-
-#
 20220706%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Professor Chris Matzner%%%University of Toronto%%%TBC%%%TBC%%%-%%%-%%%cmatzner.png%%%-%%%matzner[at]astro.utoronto.ca%%%-
 #
 20220713%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Manisha Caleb%%%The University of Sydney%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%mcaleb.jpg%%%-%%%manisha.caleb[at]sydney.edu.au%%%-

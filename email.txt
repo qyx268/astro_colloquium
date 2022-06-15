@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof._Julia_Bryant.html]
+[slug CANCELLED_6.html]
 [comments off]
-Wednesday 15 Jun 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>A Prof. Julia Bryant</strong>, <em>The University of Sydney</em>; Email: julia.bryant[at]sydney.edu.au
+Wednesday 29 Jun 2022 @ 12:00 p.m., CANCELLED
+<strong>CANCELLED</strong>, <em>ASA ASM week</em>; Email: -
 <section>
 <h2>Abstract</h2>
-Hector is a new optical integral field spectrograph (IFS) instrument that has recently been commissioned on the Anglo-Australian Telescope (AAT). It will undertake a 15,000-galaxy IFS survey of nearby z<0.1 galaxies. Fundamentally new science will be achieved compared to existing instruments due to Hector's capability to do the largest IFS galaxy survey to date, with the highest spectral resolution, and imaging 2 effective radii on most galaxies. </p><p>The high fill-factor imaging fibre bundles `hexabundles’ of the type used on the SAMI instrument, have been improved and enlarged to cover up to 27-arcsec diameter. Hector has 21 hexabundles over a 2-degree field feeding both the new 'Spector' spectrograph and existing AAOmega spectrograph. The new dual-arm spectrograph has the highest spectral resolution of any large IFS nearby galaxy survey of 1.3 Angstrom. This is the key to enable higher order stellar kinematics to be measured on a larger fraction of galaxies, and to link those galaxies to the large-scale environments in which they form to test formation models of galaxies. </p><p>The Hector survey is aligned to the 4MOST WAVES-North and WAVES-South regions.  The WAVES data will give the environment metrics necessary to relate how local and global environments influence galaxy growth through gas accretion, star formation and spins measured with Hector. The WALLABY ASKAP survey will trace HI gas across the Hector fields, which in combination with Hector will give a complete view of gas accretion and star formation.</p><p>This talk will discuss what makes Hector scientifically unique and the new opportunities it offers Australian astronomers.
+-
 <\section>
 [end]

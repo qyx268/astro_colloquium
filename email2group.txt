@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 29 Jun 2022 @ 12:00 p.m.</section>
-<section>Venue: CANCELLED, <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>CANCELLED from ASA ASM week</strong> (-)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/no_image.png" width="100" height="100"></section>
-<section><h2>-</h2></section>
-<section><i>-</i></section>
+<section>Time: Wednesday 06 Jul 2022 @ 12:00 p.m.</section>
+<section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
+<section><strong>Professor Chris Matzner from University of Toronto</strong> (matzner[at]astro.utoronto.ca)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/cmatzner.png" width="100" height="100"></section>
+<section><h2>Supernova outbursts, crashes, and flashes, and a small satellite concept</h2></section>
+<section><i>I will cover three topics:</p><p>1. "Bells not Whistles":  Some massive stars undergo shock-driven outbursts before the cores collapse.  I will show that nonlinear acoustics rules out a standard explanation for how these events are driven, a result that deepens the mystery of their origin.</p><p>2. "Do crashes make flashes?": Compact supernovae can be aspherical enough to fling ejecta sideways, causing collisions outside the progenitor.   I address the open question: can a circumstellar collision ever be visible from afar, or will it be smothered by the ejecta surrounding it?</p><p>3. "The LUVS small satellite concept."   This would be an instrument to perform rapid ultraviolet alert follow-up and chase binary neutron star coalescence signals.  It is also a testbed for fast, cheap, off-the-shelf mission development in the New Space paradigm, intended to show that scaling laws, which say space must be hard, can be broken.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/CANCELLED_6.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Professor_Chris_Matzner.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

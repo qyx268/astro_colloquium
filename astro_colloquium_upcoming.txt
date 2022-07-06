@@ -1,6 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220713%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Manisha Caleb%%%The University of Sydney%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%mcaleb.jpg%%%-%%%manisha.caleb[at]sydney.edu.au%%%-
-#
 20220720%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Sven Buder%%%ANU%%%TBC%%%TBC%%%-%%%-%%%sbuder.png%%%-%%%sven.buder[at]anu.edu.au%%%-
 #
 20220727%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Associate Professor Jeff Cooke(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%jcooke.jpg%%%-%%%jeffreycooke[at]swin.edu.au%%%-

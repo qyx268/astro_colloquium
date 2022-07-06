@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Professor_Chris_Matzner.html]
+[slug Dr_Manisha_Caleb.html]
 [comments off]
-Wednesday 06 Jul 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Professor Chris Matzner</strong>, <em>University of Toronto</em>; Email: matzner[at]astro.utoronto.ca
+Wednesday 13 Jul 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Dr Manisha Caleb</strong>, <em>The University of Sydney</em>; Email: manisha.caleb[at]sydney.edu.au
 <section>
 <h2>Abstract</h2>
-I will cover three topics:</p><p>1. "Bells not Whistles":  Some massive stars undergo shock-driven outbursts before the cores collapse.  I will show that nonlinear acoustics rules out a standard explanation for how these events are driven, a result that deepens the mystery of their origin.</p><p>2. "Do crashes make flashes?": Compact supernovae can be aspherical enough to fling ejecta sideways, causing collisions outside the progenitor.   I address the open question: can a circumstellar collision ever be visible from afar, or will it be smothered by the ejecta surrounding it?</p><p>3. "The LUVS small satellite concept."   This would be an instrument to perform rapid ultraviolet alert follow-up and chase binary neutron star coalescence signals.  It is also a testbed for fast, cheap, off-the-shelf mission development in the New Space paradigm, intended to show that scaling laws, which say space must be hard, can be broken.
+TBC
 <\section>
 [end]

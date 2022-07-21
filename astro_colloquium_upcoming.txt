@@ -1,6 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220727%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Associate Professor Jeff Cooke(TBC)%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%jcooke.jpg%%%-%%%jeffreycooke[at]swin.edu.au%%%-
-#
 20220803%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%A Prof Deanne B. Fisher%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%dfisher.png%%%-%%%dfisher[at]swin.edu.au%%%-
 #
 20220810%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Professor Orsola De Marco%%%Macquarie University%%%TBC%%%TBC%%%-%%%Director of the Astronomy Astrophysics and Astrophotonics Research Centre%%%odemarcro.png%%%-%%%orsola.demarco[at]mq.edu.au%%%-
@@ -11,7 +9,7 @@
 #
 20220831%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Giulia Santucci%%%ICRAR/UWA%%%TBC%%%TBC%%%-%%%-%%%gsantucci.jpg%%%-%%%-%%%-
 #
-20220907%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220907%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Aditi Vijayan%%%ANU%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%Aditi.Vijayan[at]anu.edu.au%%%-
 #
 20220914%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Madeline Howell%%%Monash%%%TBC%%%TBC%%%-%%%PhD Student%%%mhowell.jpg%%%-%%%Madeline.Howell1[at]monash.edu%%%-
 #

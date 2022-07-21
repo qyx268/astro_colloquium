@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Sven_Buder.html]
+[slug Associate_Professor_Jeff_Cooke.html]
 [comments off]
-Wednesday 20 Jul 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>Dr Sven Buder</strong>, <em>ANU</em>; Email: sven.buder[at]anu.edu.au
+Wednesday 27 Jul 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Associate Professor Jeff Cooke</strong>, <em>Swinburne University</em>; Email: jeffreycooke[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-The life-story of our Milky Way is missing key pages! In our ever-evolving Galaxy, our best hope is to use long-lived stars as time capsules.</p><p> The industrial revolution of equipment in Galactic archaeology allows us to survey the stars of our Milky Way in unprecedented depth and detail. The Gaia satellite monitors the positions and motions of billions of stars, while ground-based surveys like our Australian-led GALAH survey take millions of stellar spectra.</p><p> I will present the innovative tools that we have developed to extract information for millions of high-resolution optical spectra and how we can use stellar chemistry, dynamics, and ages to tell apart populations in the Milky Way and even identify stellar survivors of previous mergers. Putting these findings into an extragalactic and cosmological context will forge the connections to understand galaxy evolution across the Universe.
+In this talk, I will first discuss work by our group on identifying and studying high-redshift (z ~ 3-5) star forming galaxies with massive stars that are leaking Lyman continuum photons to better understand the sources responsible for reionising the Universe. Secondly, I will present the first observational method to directly measure massive star cloud collapse timescales and progenitor star lifetimes of gamma-ray bursts and superluminous supernovae. These observational efforts include our Hubble Space Telescope and Keck program data, along with other telescope data, and have important implications for, and can directly benefit from, large-scale cosmological simulations, JWST and 30m-class telescopes, and 21 cm mapping of reionisation by the Square Kilometre Array.
 <\section>
 [end]

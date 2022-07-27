@@ -60,7 +60,7 @@ for irecord, rec in enumerate(records[::-1]):
     """
     if Ntotal - irecord > Nmake:
         continue
-    print(currdic['slidelinkshouldgohere'])
+#    print(currdic['slidelinkshouldgohere'])
     opfile = open(op_page_name, 'w')    
     for lines in template:
         opline = lines
@@ -78,7 +78,7 @@ for irecord, rec in enumerate(records[::-1]):
                     else:
                         opline = opline.replace(keyname, '../images/%s' %(str(currdic[keyname])))
                 elif keyname == 'slidelinkshouldgohere':
-                    print(currdic[keyname])
+ #                   print(currdic[keyname])
                     if currdic[keyname] == '-':
                         opline = ''
                     else:

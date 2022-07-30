@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof_Deanne_B._Fisher.html]
+[slug Professor_Jeff_Cooke.html]
 [comments off]
-Wednesday 03 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>A Prof Deanne B. Fisher</strong>, <em>Swinburne University</em>; Email: dfisher[at]swin.edu.au
+Wednesday 27 Jul 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Professor Jeff Cooke</strong>, <em>Swinburne University</em>; Email: jeffreycooke[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+In this talk, I will first discuss work by our group on identifying and studying high-redshift (z ~ 3-5) star forming galaxies with massive stars that are leaking Lyman continuum photons to better understand the sources responsible for reionising the Universe. Secondly, I will present the first observational method to directly measure massive star cloud collapse timescales and progenitor star lifetimes of gamma-ray bursts and superluminous supernovae. These observational efforts include our Hubble Space Telescope and Keck program data, along with other telescope data, and have important implications for, and can directly benefit from, large-scale cosmological simulations, JWST and 30m-class telescopes, and 21 cm mapping of reionisation by the Square Kilometre Array.
 <\section>
 [end]

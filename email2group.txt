@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 27 Jul 2022 @ 12:00 p.m.</section>
+<section>Time: Wednesday 03 Aug 2022 @ 12:00 p.m.</section>
 <section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Professor Jeff Cooke from Swinburne University</strong> (jeffreycooke[at]swin.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/jcooke.jpg" width="100" height="100"></section>
-<section><h2>Leaks and bursts</h2></section>
-<section><i>In this talk, I will first discuss work by our group on identifying and studying high-redshift (z ~ 3-5) star forming galaxies with massive stars that are leaking Lyman continuum photons to better understand the sources responsible for reionising the Universe. Secondly, I will present the first observational method to directly measure massive star cloud collapse timescales and progenitor star lifetimes of gamma-ray bursts and superluminous supernovae. These observational efforts include our Hubble Space Telescope and Keck program data, along with other telescope data, and have important implications for, and can directly benefit from, large-scale cosmological simulations, JWST and 30m-class telescopes, and 21 cm mapping of reionisation by the Square Kilometre Array.</i></section>
+<section><strong>A Prof Deanne B. Fisher from Swinburne University</strong> (dfisher[at]swin.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/dfisher.png" width="100" height="100"></section>
+<section><h2>How do galaxies regulate their own star formation?</h2></section>
+<section><i>Over 2/3 of all star formation in the Universe occurs in gas-rich, super-high pressure clumpy galaxies in the epoch of redshift z~1-3. However, because these galaxies are so distant we are limited in the information available to study the properties of star formation and gas in these systems. I will present results using a sample of extremely rare, nearby galaxies (from the DYNAMO survey and the new DUVET survey) that are very well matched to high-z main-sequence galaxies. We use these galaxies as laboratories to study the processes inside galaxies in the dominate mode of star formation in the Universe. In this talk I will report on results that are aimed at testing models of star formation in galaxies, which are designed to simultaneously explain star formation and kinematics. I will discuss very recent efforts to connect the regulation of gas via outflows to the picture of how galaxies maintain their star formation rates, and outlook for the future with the new Australian led large ESO program, GECKOS.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Professor_Jeff_Cooke.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/A_Prof_Deanne_B._Fisher.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

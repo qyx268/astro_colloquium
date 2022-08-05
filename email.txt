@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof_Deanne_B._Fisher.html]
+[slug Dr_Anita_Petzler.html]
 [comments off]
-Wednesday 03 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>A Prof Deanne B. Fisher</strong>, <em>Swinburne University</em>; Email: dfisher[at]swin.edu.au
+Wednesday 10 Aug 2022 @ 12:00 p.m., Zoom
+<strong>Dr Anita Petzler</strong>, <em>CSIRO</em>; Email: Anita.Petzler[at]csiro.au
 <section>
 <h2>Abstract</h2>
-Over 2/3 of all star formation in the Universe occurs in gas-rich, super-high pressure clumpy galaxies in the epoch of redshift z~1-3. However, because these galaxies are so distant we are limited in the information available to study the properties of star formation and gas in these systems. I will present results using a sample of extremely rare, nearby galaxies (from the DYNAMO survey and the new DUVET survey) that are very well matched to high-z main-sequence galaxies. We use these galaxies as laboratories to study the processes inside galaxies in the dominate mode of star formation in the Universe. In this talk I will report on results that are aimed at testing models of star formation in galaxies, which are designed to simultaneously explain star formation and kinematics. I will discuss very recent efforts to connect the regulation of gas via outflows to the picture of how galaxies maintain their star formation rates, and outlook for the future with the new Australian led large ESO program, GECKOS.
+TBC
 <\section>
 [end]

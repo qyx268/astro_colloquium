@@ -1,13 +1,13 @@
-Prof_Virginia_Kilborn(TBC)
+TBC_8
 Dr_Giulia_Santucci
 Dr_Aditi_Vijayan
 Madeline_Howell
-TBC_8
-Associate_Prof._Kim-Vy_Tran
 TBC_7
+Associate_Prof._Kim-Vy_Tran
+TBC_6
 Dr_Kelly_Gourdji
 Dr_Tania_Barone
-TBC_6
+Prof_Virginia_Kilborn(TBC)
 TBC_5
 TBC_4
 TBC_3

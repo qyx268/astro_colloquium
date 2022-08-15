@@ -1,5 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220824%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Prof Virginia Kilborn(TBC)%%%Swinburne%%%TBC%%%TBC%%%-%%%Dean of Science%%%vkilborn.jpg%%%-%%%vkilborn[at]swin.edu.au%%%-
+202208241%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220831%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Giulia Santucci%%%ICRAR/UWA%%%TBC%%%TBC%%%-%%%-%%%gsantucci.jpg%%%-%%%-%%%-
 #
@@ -18,7 +18,7 @@
 #
 20221019%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Tania Barone%%%Swinburne%%%TBC%%%TBC%%%-%%%Postdoctoral Research Associate%%%tbarone.jpg%%%-%%%tbarone[at]swin.edu.au%%%-
 #
-20221026%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221026%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Prof Virginia Kilborn(TBC)%%%Swinburne%%%TBC%%%TBC%%%-%%%Dean of Science%%%vkilborn.jpg%%%-%%%vkilborn[at]swin.edu.au%%%-
 #
 20221102%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #

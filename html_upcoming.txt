@@ -1,11 +1,10 @@
-A_Prof_Yuan-Sen_Ting
 Prof_Virginia_Kilborn(TBC)
 Dr_Giulia_Santucci
 Dr_Aditi_Vijayan
 Madeline_Howell
-TBC_7
+TBC_8
 Associate_Prof._Kim-Vy_Tran
-Dr_Henry_Zovaro
+TBC_7
 Dr_Kelly_Gourdji
 Dr_Tania_Barone
 TBC_6
@@ -14,3 +13,4 @@ TBC_4
 TBC_3
 TBC_2
 TBC
+Dr_Henry_Zovaro

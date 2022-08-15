@@ -1,5 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-202208241%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20220824%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20220831%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Giulia Santucci%%%ICRAR/UWA%%%TBC%%%TBC%%%-%%%-%%%gsantucci.jpg%%%-%%%-%%%-
 #

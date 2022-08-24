@@ -8,7 +8,7 @@
 #
 20220921%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20220928%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Associate Prof. Kim-Vy Tran%%%University of New South Wales%%%TBC%%%TBC%%%-%%%Faculty%%%kvtran.jpeg%%%-%%%kim-vy.tran[at]unsw.edu.au%%%-
+20220928%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20221005%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
@@ -26,6 +26,6 @@
 #
 20221123%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
-20221130%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+20221130%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Associate Prof. Kim-Vy Tran%%%University of New South Wales%%%TBC%%%TBC%%%-%%%Faculty%%%kvtran.jpeg%%%-%%%kim-vy.tran[at]unsw.edu.au%%%-
 #
 20230201%%%12:00 p.m.%%%Laby Theatre(+Zoom)%%%Dr Henry Zovaro%%%ANU%%%TBC%%%TBC%%%-%%%Postdoctoral fellow%%%hzovaro.jpg%%%-%%%henry.zovaro[at]anu.edu.au%%%-

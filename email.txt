@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug A_Prof_Yuan-Sen_Ting.html]
+[slug TBC.html]
 [comments off]
-Wednesday 17 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>A Prof Yuan-Sen Ting</strong>, <em>ANU</em>; Email: yuan-sen.ting@anu.edu.au
+Wednesday 24 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>TBC</strong>, <em>TBC</em>; Email: -
 <section>
 <h2>Abstract</h2>
-Astronomy today is fundamentally different than it was even just a decade ago. Our increasing ability to collect a large amount of data from ever more powerful instrumental has enabled many new opportunities. However, such opportunity also comes with new challenges. The bottleneck stems from the fact that most astronomical observations are inherently high dimension — from “imaging” the Universe at the finest details to fully characterising tens of millions of spectra consisting of tens of thousands of wavelength pixels. In this regime, classical astrostatistics approaches struggle.</p><p>I will present two different machine learning approaches to quantify complex systems in astronomy. (1) Reductionist approach: I will discuss how machine learning can optimally compress information and extract higher-order moment information in stochastic processes. (2) A generative approach: I will discuss how generative models, such as normalising flow, allow us to properly model the vast astronomy data set, enabling the study of complex astronomy systems directly in their raw dimensional space.
+TBC
 <\section>
 [end]

@@ -3,7 +3,7 @@
 [slug Dr_Giulia_Santucci.html]
 [comments off]
 Wednesday 31 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>Dr Giulia Santucci</strong>, <em>ICRAR/UWA</em>; Email: -
+<strong>Dr Giulia Santucci</strong>, <em>ICRAR/UWA</em>; Email: g.santucci[at]unsw.edu.au
 <section>
 <h2>Abstract</h2>
 Galaxy mergers are thought to play an important role in how galaxies evolve over time, however, extragalactic astronomers do not yet completely understand that merger process, its timing and dependence on galaxy mass. The internal kinematic structures of galaxies are driven by their merger histories, therefore, we expect that the internal kinematic structures of galaxies might show different characteristics depending on their merging history. We apply Schwarzschild orbit-superposition models to passive galaxies in the SAMI Galaxy Survey in order to reconstruct their internal kinematic structure and intrinsic properties. We find that these intrinsic properties correlate strongly with stellar mass and that environment plays a secondary role: at fixed stellar mass, galaxies in the densest regions are more radially anisotropic. Central galaxies and galaxies in high local densities rotate more slowly. We also find suggestions of a possible trend of the fractions of orbits with environment for lower-mass galaxies. Our results demonstrate that after stellar mass, environment does play a role in shaping present-day galaxies.

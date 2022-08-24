@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug TBC.html]
+[slug Dr_Giulia_Santucci.html]
 [comments off]
-Wednesday 24 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
-<strong>TBC</strong>, <em>TBC</em>; Email: -
+Wednesday 31 Aug 2022 @ 12:00 p.m., Laby Theatre(+Zoom)
+<strong>Dr Giulia Santucci</strong>, <em>ICRAR/UWA</em>; Email: -
 <section>
 <h2>Abstract</h2>
 TBC

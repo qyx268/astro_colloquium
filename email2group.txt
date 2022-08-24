@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 24 Aug 2022 @ 12:00 p.m.</section>
+<section>Time: Wednesday 31 Aug 2022 @ 12:00 p.m.</section>
 <section>Venue: Laby Theatre(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>TBC from TBC</strong> (-)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/no_image.png" width="100" height="100"></section>
+<section><strong>Dr Giulia Santucci from ICRAR/UWA</strong> (-)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/gsantucci.jpg" width="100" height="100"></section>
 <section><h2>TBC</h2></section>
 <section><i>TBC</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/TBC.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Giulia_Santucci.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

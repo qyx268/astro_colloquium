@@ -6,6 +6,6 @@ Wednesday 07 Sep 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
 <strong>Dr Aditi Vijayan</strong>, <em>ANU</em>; Email: Aditi.Vijayan[at]anu.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+Outflows, generated either due to supernova (SN) activity in the disc of a star-forming disc or through the SMBH activity in a larger galaxy, are critical in understanding galaxy evolution. Such outflows are a complex phenomenon which I have studied using HD simulations. In this talk, I will discuss 3-D HD simulations that I ran that study the properties of outflows in a Milky Way-type star-forming galaxy. I will discuss how feedback creates multiphase outflows and how they appear in X-rays. I will share what I found about diffuse X-ray emission from the CGM and its relationship with the underlying gas properties.
 <\section>
 [end]

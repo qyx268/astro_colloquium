@@ -6,8 +6,8 @@
 <section>Venue: Level 6 Geoff Opat(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
 <section><strong>Dr Aditi Vijayan from ANU</strong> (Aditi.Vijayan[at]anu.edu.au)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/no_image.png" width="100" height="100"></section>
-<section><h2>TBC</h2></section>
-<section><i>TBC</i></section>
+<section><h2>Understanding X-Ray Signatures of Outflows Through 3-D Simulations</h2></section>
+<section><i>Outflows, generated either due to supernova (SN) activity in the disc of a star-forming disc or through the SMBH activity in a larger galaxy, are critical in understanding galaxy evolution. Such outflows are a complex phenomenon which I have studied using HD simulations. In this talk, I will discuss 3-D HD simulations that I ran that study the properties of outflows in a Milky Way-type star-forming galaxy. I will discuss how feedback creates multiphase outflows and how they appear in X-rays. I will share what I found about diffuse X-ray emission from the CGM and its relationship with the underlying gas properties.</i></section>
 <section><h2></h2></section>
 <small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Aditi_Vijayan.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>

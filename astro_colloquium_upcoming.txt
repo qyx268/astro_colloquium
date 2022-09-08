@@ -1,6 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20220914%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Madeline Howell%%%Monash%%%TBC%%%TBC%%%-%%%PhD Student%%%mhowell.jpg%%%-%%%Madeline.Howell1[at]monash.edu%%%-
-#
 #
 20220921%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%TBC%%%TBC%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
